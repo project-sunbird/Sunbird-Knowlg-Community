@@ -6,4 +6,4 @@ In practice physical artefacts will be published once, serving as coordinate to 
 
 **Background**
 
-\[DIAL API]\(http://docs.sunbird.org/latest/apis/dialapi/ DIAL service provide the APIs to manage DIAL codes.
+[DIAL API](http://docs.sunbird.org/latest/apis/dialapi/) DIAL service provide the APIs to manage DIAL codes.

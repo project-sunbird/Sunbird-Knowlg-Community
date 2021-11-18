@@ -15,4 +15,5 @@
     * [Events & Event-Set](docs/events/events.md)
   * [taxonomy](docs/taxonomy/README.md)
     * [Taxonomy](docs/taxonomy/taxonomy.md)
-* [Use](use.md)
+* [USE](use.md)
+* [ENGAGE](engage.md)

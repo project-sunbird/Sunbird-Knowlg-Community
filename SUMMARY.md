@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Sunbird Knowlg](README.md)
+* [docs](docs/README.md)
+  * [content](docs/content/README.md)
+    * [Knowledge Platform architecture](docs/content/architecture.md)
+    * [Content Management](docs/content/content-management.md)
+    * [API](docs/content/api/README.md)
+      * [Content APIs](docs/content/API/content-api.md)
+  * [dialcode](docs/dialcode/README.md)
+    * [architecture](docs/dialcode/architecture.md)
+    * [Dialcode](docs/dialcode/dialcode.md)
+  * [events](docs/events/README.md)
+    * [architecture](docs/events/architecture.md)
+    * [Events & Event-Set](docs/events/events.md)
+  * [taxonomy](docs/taxonomy/README.md)
+    * [Taxonomy](docs/taxonomy/taxonomy.md)

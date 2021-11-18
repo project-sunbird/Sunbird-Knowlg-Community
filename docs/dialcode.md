@@ -1,3 +1,10 @@
+---
+description: >-
+  Sunbird DIAL powers the discovery of learning Assets and certificates and
+  bridge the physical to the digital journey of users. DIAL Service is a set of
+  API that enables create, retrieve, delete, publi
+---
+
 # Dialcode
 
 DIAL refers to _Digital Infrastructure for Augmented learning_. It provides tools for DIAL code management. DIAL powers the discovery of digital resources using physical artefacts like QR codes, can be extended to other physical artefacts. DIAL code does the loose binding of digital assets with physical artefacts.

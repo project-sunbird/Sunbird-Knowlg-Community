@@ -4,7 +4,7 @@
 * [docs](docs/README.md)
   * [content](docs/content/README.md)
     * [Content Management](docs/content/content-management.md)
-    * [Knowledge Platform architecture](docs/content/architecture.md)
+    * [Sunbird Knowlg Building Block architecture](docs/content/architecture.md)
     * [API](docs/content/api/README.md)
       * [Content APIs](docs/content/API/content-api.md)
   * [dialcode](docs/dialcode/README.md)

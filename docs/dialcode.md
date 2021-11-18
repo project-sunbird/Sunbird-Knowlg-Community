@@ -11,7 +11,12 @@ DIAL refers to _Digital Infrastructure for Augmented learning_. It provides tool
 
 In practice physical artefacts will be published once, serving as coordinate to the discovery of digital resources. Digital resources can be published and modified later multiple times, this is done to improve digital resources. In short DIAL code serves as a coordinate for digital resources discovery, where the digital resources can be modified, improved and personalised at runtime.
 
-#### DIAL code usage workflow
+### DIAL code usage workflow
+
+* DIAL code act as a bridge between physical and digital artefacts
+* DIAL code is generated and linked to a folder in a collection&#x20;
+* User scans the DIAL code and access all the linked assets in that folder
+* This enables easy extension and modification of assets accessed through a DIAL code
 
 ![DIAL code  as coordinate to discover digital coordinates](<../.gitbook/assets/DIAL\_code\_ flow.png>)
 

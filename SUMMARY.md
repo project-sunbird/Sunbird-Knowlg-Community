@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Sunbird Knowlg](README.md)
-* [docs](docs/README.md)
+* [Component](docs/README.md)
   * [content](docs/content/README.md)
     * [Content Management](docs/content/content-management.md)
     * [Sunbird Knowlg Building Block architecture](docs/content/architecture.md)

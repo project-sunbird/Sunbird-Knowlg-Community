@@ -6,7 +6,7 @@ description: >-
 
 # Content Editors
 
-
+As the name indcates, there are multiple editors to create specific type of contents.
 
 | Editor                                                                            | Content Type                     | Mime types                                                                                                       |
 | --------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------- |

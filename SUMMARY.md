@@ -9,7 +9,7 @@
       * [Video Player](docs/content-management/content-player/video-player.md)
     * [Content Editors](docs/content-management/content-editors.md)
     * [Content Service](docs/content-management/content-service/README.md)
-      * [Sunbird Knowlg Building Block architecture](docs/content-management/content-service/architecture.md)
+      * [Architecture](docs/content-management/content-service/architecture.md)
       * [Content APIs](docs/content/API/content-api.md)
   * [Dialcode](docs/dialcode.md)
   * [Taxonomy](docs/taxonomy.md)

@@ -9,3 +9,6 @@ This is the classic version of the content player. Using the player, we can play
 * Video (MP4, Webm)
 * Youtube
 
+### **Git Repo:**
+
+[https://github.com/project-sunbird/sunbird-content-player](https://github.com/project-sunbird/sunbird-content-player)

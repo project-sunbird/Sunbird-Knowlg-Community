@@ -6,7 +6,12 @@ description: >-
 
 # Content Editors
 
+Sunbird houses a wide variety of content. Users can can create content on Sunbird or upload content created offline.&#x20;
+
 As the name indcates, there are multiple editors to create specific type of contents.
+
+\
+
 
 | Editor                                                                            | Content Type                     | Mime types                                                                                                       |
 | --------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------- |

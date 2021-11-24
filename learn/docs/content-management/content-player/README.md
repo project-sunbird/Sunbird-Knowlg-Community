@@ -2,7 +2,7 @@
 
 
 
-As the name indcates, it's a player/renderer to play/consume the content in mobile or web.
+As the name indicates, it's a player/renderer to play/consume the content in mobile or web.
 
 * [Common Player](https://github.com/project-sunbird/sunbird-content-player) (ECML, HTML, PDF, EPUB, Video, youtube)
 * [PDF Player](https://github.com/project-sunbird/sunbird-pdf-player)

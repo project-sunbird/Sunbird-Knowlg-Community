@@ -1,4 +1,4 @@
-# How-to-setup
+# How to setup
 
 Please refer to the github readme document.
 
@@ -35,9 +35,7 @@ Sunbird Telemetry is a specification to instrument all the key events. Using thi
 
 
 
-#### [Sunbird QuML](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/-Mk0O5w77ZnjFM6FJOvP/)
+#### [Sunbird inQuiry](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/)
 
-Sunbird Telemetry is a specification to instrument all the key events. Using this specification reference applications & services will generate telemetry events.
-
-
+Sunbird inQuiry is used to play the questionnnnair while playing the content. This specially used to play Interacitve-video contents.
 

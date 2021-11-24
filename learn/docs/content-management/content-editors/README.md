@@ -16,7 +16,7 @@ As the name indcates, there are multiple editors to create specific type of cont
 | [Collection Editor](https://github.com/project-sunbird/sunbird-collection-editor) | Collection                       | <ul><li>Collection</li><li>Textbook</li><li>Course</li></ul>                                                     |
 | [Generic Editor](https://github.com/project-sunbird/sunbird-generic-editor)       | Content/Resource (as a file/URL) | <p>Non ECML Contents</p><ul><li>PDF</li><li>Video (MP4, YouTube)</li><li>HTML (HTML, H5p)</li><li>EPUB</li></ul> |
 
-![](<../../.gitbook/assets/Screenshot from 2021-11-24 14-52-26.png>)
+![](<../../../../.gitbook/assets/Screenshot from 2021-11-24 14-52-26.png>)
 
 ### Git Repo:
 

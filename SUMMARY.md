@@ -24,6 +24,7 @@
     * [Usecase](https://www.youtube.com/watch?v=EtYU11qNciQ\&t=612s)
   * [Taxonomy](learn/docs/taxonomy/README.md)
     * [Usecase](https://www.youtube.com/watch?v=EtYU11qNciQ\&t=203s)
+    * [Sample data](https://sunbirddev.blob.core.windows.net/sunbird-content-dev/framework/ncf-framework.json)
   * [Events](learn/docs/events/README.md)
     * [architecture](learn/docs/events/architecture.md)
     * [Events & Event-Set](learn/docs/events/events.md)

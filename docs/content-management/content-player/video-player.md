@@ -6,4 +6,4 @@ The [Common Player](common-player.md) is package with all the content types. So 
 
 ### Git Repo
 
-[https://github.com/project-sunbird/sunbird-video-player](https://github.com/project-sunbird/sunbird-video-player)
+{% embed url="https://github.com/project-sunbird/sunbird-video-player" %}

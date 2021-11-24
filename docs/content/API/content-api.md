@@ -1,6 +1,6 @@
 # Content APIs
 
-[Sunbird Content Management APIs](http://docs.sunbird.org/latest/apis/content/index.html)
+### [Sunbird Content Management APIs](http://docs.sunbird.org/latest/apis/content/index.html)
 
 These APIs are used to manage the content.&#x20;
 
@@ -10,13 +10,13 @@ These APIs are used to manage the content.&#x20;
 
 
 
-[Content Search API ](http://docs.sunbird.org/latest/apis/searchapi/)
+### [Content Search API ](http://docs.sunbird.org/latest/apis/searchapi/)
 
 These APIs are used for content discoverability.&#x20;
 
 
 
-[Assets Category API](http://docs.sunbird.org/latest/apis/objectcategory/)
+### [Assets Category API](http://docs.sunbird.org/latest/apis/objectcategory/)
 
 These APIs are core/heart of the Content management. Thease APIs are used for
 

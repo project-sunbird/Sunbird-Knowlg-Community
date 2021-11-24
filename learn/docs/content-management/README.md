@@ -7,4 +7,4 @@ The content service is a set of APIs to manage content objects (learning assets)
 * Content Editors
 * Content Players
 * Content Service
-* [APIs](content-service/content-api.md)
+* [APIs](../../../docs/content/API/content-api.md)

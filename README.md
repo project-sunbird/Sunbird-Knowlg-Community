@@ -7,7 +7,13 @@ Components on Knowlg building block
 1. [Content](learn/docs/content-management/)
 2. [Taxonomy](learn/docs/taxonomy/)
 3. [Dial code](learn/docs/dialcode/)
-4. Events & Event-Set (Coming soon)
+4.  Events & Event-Set (Coming soon)
+
+
+
+    TBD:&#x20;
+
+    #### How all the components of sunbird-knowlg pltform are connected to each other
 
 Adopters&#x20;
 

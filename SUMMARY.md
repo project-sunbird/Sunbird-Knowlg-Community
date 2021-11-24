@@ -1,20 +1,29 @@
 # Table of contents
 
 * [Sunbird Knowlg](README.md)
-* [Component](docs/README.md)
-  * [Content Management](docs/content-management/README.md)
-    * [Content Player](docs/content-management/content-player/README.md)
-      * [Common Player](docs/content-management/content-player/common-player.md)
-      * [PDF Player](docs/content-management/content-player/pdf-player.md)
-      * [Video Player](docs/content-management/content-player/video-player.md)
-    * [Content Editors](docs/content-management/content-editors.md)
-    * [Content Service](docs/content-management/content-service/README.md)
-      * [Architecture](docs/content-management/content-service/architecture.md)
-      * [Content APIs](docs/content/API/content-api.md)
-  * [Dialcode](docs/dialcode.md)
-  * [Taxonomy](docs/taxonomy.md)
-  * [Events](docs/events/README.md)
-    * [architecture](docs/events/architecture.md)
-    * [Events & Event-Set](docs/events/events.md)
-* [USE](use.md)
-* [ENGAGE](engage.md)
+
+## LEARN
+
+* [Component](learn/docs/README.md)
+  * [Content Management](learn/docs/content-management/README.md)
+    * [Content Player](learn/docs/content-management/content-player/README.md)
+      * [Common Player](learn/docs/content-management/content-player/common-player.md)
+      * [PDF Player](learn/docs/content-management/content-player/pdf-player.md)
+      * [Video Player](learn/docs/content-management/content-player/video-player.md)
+    * [Content Editors](learn/docs/content-management/content-editors.md)
+    * [Content Service](learn/docs/content-management/content-service/README.md)
+      * [Architecture](learn/docs/content-management/content-service/architecture.md)
+      * [Content APIs](learn/docs/content-management/content-service/content-api.md)
+  * [Dialcode](learn/docs/dialcode.md)
+  * [Taxonomy](learn/docs/taxonomy.md)
+  * [Events](learn/docs/events/README.md)
+    * [architecture](learn/docs/events/architecture.md)
+    * [Events & Event-Set](learn/docs/events/events.md)
+
+## USE
+
+* [USE](use/use.md)
+
+## ENGAGE
+
+* [ENGAGE](engage/engage.md)

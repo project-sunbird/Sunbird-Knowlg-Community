@@ -8,7 +8,7 @@ The Taxonomy module enables flexibility to support multiple pedagogic frameworks
 
 An open infrastructure for organizing knowledge across various learning content and frameworks to solve the discoverability of relevant content. Experts created taxonomies are highly sophisticated, as communities and content scale, it is very difficult for a community user to understand the taxonomy and it takes significant discipline to tag content. Taxonomy and tagging infrastructure is a generic service that allows a highly automated way to create and enrich taxonomies and allow tagging, aggregation and categorization of content.
 
-![](../../.gitbook/assets/taxonomy\_pic.png)
+![](../../../.gitbook/assets/taxonomy\_pic.png)
 
 ### Feature
 
@@ -28,13 +28,13 @@ Taxonomy framework enables
 * Efficient way of organizing digital assets&#x20;
 * Help users discover relevant content efficiently
 * Different frameworks can be created for different needs&#x20;
-* Each organization can define their own frameworks
+* Each organization can define their frameworks
 
-![](../../.gitbook/assets/taxonomy\_enables.png)
+![](../../../.gitbook/assets/taxonomy\_enables.png)
 
 
 
-Learn more about the taxonomy framework [here](https://www.youtube.com/watch?v=qZOAMoO9KVU\&t=1104s)
+&#x20;Taxonomy framework use case [here](https://www.youtube.com/watch?v=EtYU11qNciQ\&t=203s)
 
 [Taxonomy API](http://docs.sunbird.org/latest/apis/framework/)
 

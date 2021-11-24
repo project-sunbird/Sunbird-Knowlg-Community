@@ -5,8 +5,8 @@ Sunbird Knowlg (previously called Sunbird KP) module allows a powerful content a
 Components on Knowlg building block
 
 1. [Content](learn/docs/content-management/)
-2. [Taxonomy](learn/docs/taxonomy.md)
-3. [Dial code](learn/docs/dialcode.md)
+2. [Taxonomy](learn/docs/taxonomy/)
+3. [Dial code](learn/docs/dialcode/)
 4. Events & Event-Set (Coming soon)
 
 Adopters&#x20;

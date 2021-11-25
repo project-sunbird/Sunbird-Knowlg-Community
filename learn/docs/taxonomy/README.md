@@ -19,7 +19,7 @@ An open infrastructure for organizing knowledge across various learning content 
 * Auto-tagging using Machine Learning
 * Telemetry data for policymaking
 
-## Use Cases
+## Capabilities
 
 There are more than ten million teachers in India, many syllabi, many textbooks, varied pedagogic styles, methods, teaching techniques, and a wide diversity of student demographics and contexts. Taxonomy and tagging infrastructure makes it possible to easily categorize knowledge and makes it discoverable.
 

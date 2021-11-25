@@ -34,7 +34,11 @@ Taxonomy framework enables
 
 
 
-&#x20;Taxonomy framework use case [here](https://www.youtube.com/watch?v=EtYU11qNciQ\&t=203s)
+&#x20;Taxonomy framework use case&#x20;
+
+{% embed url="https://www.youtube.com/watch?t=203s&v=EtYU11qNciQ" %}
+Taxonomy framework
+{% endembed %}
 
 [Taxonomy API](http://docs.sunbird.org/latest/apis/framework/)
 

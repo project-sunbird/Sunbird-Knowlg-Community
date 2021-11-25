@@ -4,6 +4,7 @@
 
 ## LEARN
 
+* [Use Cases](learn/use-cases.md)
 * [Component](learn/docs/README.md)
   * [Content Management](learn/docs/content-management/README.md)
     * [Content Player](learn/docs/content-management/content-player/README.md)

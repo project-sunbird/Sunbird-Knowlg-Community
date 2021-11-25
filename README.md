@@ -23,9 +23,7 @@ Contributors&#x20;
 
 EkStep
 
-Last Release Date:&#x20;
+Last Release Date: <>
 
-15th Nov 2021&#x20;
-
-Version : 4.4
+Version : <>
 

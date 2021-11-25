@@ -21,6 +21,7 @@
       * [Architecture](learn/docs/content-management/content-service/architecture.md)
       * [Content APIs](docs/content/API/content-api.md)
       * [How to setup](learn/docs/content-management/content-service/how-to-setup.md)
+      * [Deployment](learn/docs/content-management/content-service/deployment.md)
   * [Dialcode](learn/docs/dialcode/README.md)
     * [How to setup](learn/docs/dialcode/how-to-setup.md)
     * [Usecase](https://www.youtube.com/watch?v=EtYU11qNciQ\&t=612s)

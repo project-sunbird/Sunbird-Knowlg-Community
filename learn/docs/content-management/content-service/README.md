@@ -18,7 +18,7 @@ Since an object is the core entity that can be used across multiple use cases in
 
 
 
-
+{% embed url="https://project-sunbird.atlassian.net/wiki/spaces/CO/pages/1572536374/Object+Types" %}
 
 ## Category <a href="category" id="category"></a>
 
@@ -32,6 +32,16 @@ Example from education - _**Exam Question paper, Practice Worksheet, Quiz**_ eac
 Analogous example from the real-world - A _**Shoe, Sandal, Flip-flops**_ each one is a category of the object type **foot wear**
 
 Following pages provide details of the various types of objects that are part of sunbird and a default set of categories configured.
+
+
+
+### References
+
+#### Confluence wikis
+
+{% embed url="https://project-sunbird.atlassian.net/wiki/spaces/CO/pages/1572339732/Categories" %}
+
+#### Youtube videos
 
 For further explanation of objects and categories can be found in the following videos:
 

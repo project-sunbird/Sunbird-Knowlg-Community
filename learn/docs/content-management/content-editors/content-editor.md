@@ -4,7 +4,13 @@ The content-editor is used to create [ECML contents](https://github.com/project-
 
 Once the content is updated in the slides, users can preview the content on how
 
+![](<../../../../.gitbook/assets/image (1).png>)
 
+
+
+### How to use content editor:
+
+[http://docs.sunbird.org/2.8.0/features-documentation/contenteditor/](http://docs.sunbird.org/2.8.0/features-documentation/contenteditor/)
 
 ### Git Repo
 

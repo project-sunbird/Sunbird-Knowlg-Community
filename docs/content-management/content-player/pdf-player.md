@@ -10,7 +10,7 @@ The [Common Player](../../../learn/docs/content-management/content-player/common
 
 ### Architecture
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (2).png>)
 
 
 

@@ -4,6 +4,14 @@ Please refer to the github readme document.
 
 {% embed url="https://github.com/project-sunbird/sunbird-video-player/tree/release-4.5.0#readme" %}
 
+### System Requirements <a href="system-requirements" id="system-requirements"></a>
+
+To install common player, ensure that your laptop or desktop has the following minimum system requirements:
+
+* Operating System: Windows 7 and above, or 4.2 Mac OS X 10.0 and above/Linux
+* RAM: >1.5GB
+* CPU: 2 cores, >2 GHz
+
 ### Technical specifications
 
 | Tech     | Version | Details                                                 |
@@ -21,7 +29,7 @@ The common player(content-player) is customizable and configurable before launch
 
 ### Internal Dependencies
 
-#### [Content Service](../content-service/)&#x20;
+#### [Content Service](../../content-service/)&#x20;
 
 Content service APIs are being used to read the content details using READ/GET API calls.&#x20;
 

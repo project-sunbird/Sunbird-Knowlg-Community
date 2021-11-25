@@ -14,6 +14,12 @@ An object is the core system entity through which any type of asset is managed. 
 
 Since an object is the core entity that can be used across multiple use cases in multiple ways, it has to be defined, managed and support wide variety of behaviors, in a very generalized way, so that it can be easily reused in wide range of use cases.
 
+![](<../../../../.gitbook/assets/Screenshot from 2021-11-25 08-59-20.png>) ![](<../../../../.gitbook/assets/Screenshot from 2021-11-25 08-59-32.png>)
+
+
+
+
+
 ## Category <a href="category" id="category"></a>
 
 This represents the actual items that are defined and created based on different use cases.

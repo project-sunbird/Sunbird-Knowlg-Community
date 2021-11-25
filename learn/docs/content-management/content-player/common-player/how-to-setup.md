@@ -14,16 +14,16 @@ To install common player, ensure that your laptop or desktop has the following m
 
 ### Technical specifications
 
-| Tech     | Version | Details                                                 |
-| -------- | ------- | ------------------------------------------------------- |
-| Node     | > 8.0   | To run project locally                                  |
-| Cordova  | ^ 6.0   | Used expecially to communicate with mobile app(cordova) |
-| HTML, JS |         |                                                         |
-| Sass     |         | Used for styles                                         |
+| Technology | Version | Details                                                 |
+| ---------- | ------- | ------------------------------------------------------- |
+| Node       | > 8.0   | To run project locally                                  |
+| Cordova    | ^ 6.0   | Used expecially to communicate with mobile app(cordova) |
+| HTML, JS   |         |                                                         |
+| Sass       |         | Used for styles                                         |
 
 ### Configuration
 
-The common player(content-player) is customizable and configurable before launching any type of content inside any environment (preview or device) it expecting few configurations. Based on the configuration content will be rendered in the respective environment.
+The common player(content-player) is customizable and configurable before launching any type of content inside any environment (preview or device) it expects few configurations. Based on the configuration content will be rendered in the respective environment.
 
 {% embed url="https://github.com/project-sunbird/sunbird-content-player/tree/release-4.4.0#how-to-render-the-contents" %}
 
@@ -45,5 +45,5 @@ Sunbird Telemetry is a specification to instrument all the key events. Using thi
 
 #### [Sunbird inQuiry](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/)
 
-Sunbird inQuiry is used to play the questionnnnair while playing the content. This specially used to play Interacitve-video contents.
+Sunbird inQuiry is used to play the questionnnaire while playing the content. This is especially used to play Interactive-video content.
 

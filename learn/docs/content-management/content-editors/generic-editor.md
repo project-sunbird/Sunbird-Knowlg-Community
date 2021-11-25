@@ -14,3 +14,10 @@ The generic editor is used to create for all non-ECML contents. This editor is u
 | HTML             | Any HTML contents which can be played in the browser can be uploaded as ZIP file |
 | H5P              | H5P files                                                                        |
 | Epub             | epub files                                                                       |
+
+
+
+### Git Repo
+
+{% embed url="https://github.com/project-sunbird/sunbird-generic-editor" %}
+

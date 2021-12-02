@@ -2,7 +2,7 @@
 
 Sunbird Knowlg can be used for following&#x20;
 
-_**Create content **_fitting user's needs, content can be
+_**Create content**_ fitting user's needs, content can be
 
 * Interactive content, Game, quiz, questionnaire
 * Multimedia  content Audio, Videos simulations

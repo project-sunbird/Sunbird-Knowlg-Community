@@ -4,10 +4,10 @@ The Content service uses the Graph engine to communicate with Neo4j. The Graph e
 
 
 
-## Object  <a href="object" id="object"></a>
+## Object  <a href="#object" id="object"></a>
 
 This is the master definition for Types of items that are supported on sunbird.\
-Example from education - _**Question set **_is an object\
+Example from education - _**Question set**_ is an object\
 Analogous example from the real-world - A _**foot wear**_ is an object
 
 An object is the core system entity through which any type of asset is managed. Services such as creation, modification, publishing, discovery, consumption - are built around the core objects.
@@ -20,7 +20,7 @@ Since an object is the core entity that can be used across multiple use cases in
 
 {% embed url="https://project-sunbird.atlassian.net/wiki/spaces/CO/pages/1572536374/Object+Types" %}
 
-## Category <a href="category" id="category"></a>
+## Category <a href="#category" id="category"></a>
 
 This represents the actual items that are defined and created based on different use cases.
 

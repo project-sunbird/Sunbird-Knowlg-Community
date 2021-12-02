@@ -1,5 +1,3 @@
 # Architecture
 
-
-
-![Knowledge Platform architecture](../../../../assets/images/kp\_architecture.png)
+![](../../../../.gitbook/assets/sunbird-knowlg.drawio.png)

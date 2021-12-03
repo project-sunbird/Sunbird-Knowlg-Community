@@ -1,3 +1,7 @@
+---
+description: File upload editor(pdf, video, h5p, epub etc..)
+---
+
 # Generic Editor
 
 The generic editor is used to create for all non-ECML contents. This editor is used for the contents which can be uploaded as files(H5P, epub, PDF, HTML, Youtube, Video).

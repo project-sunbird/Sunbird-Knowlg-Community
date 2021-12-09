@@ -4,6 +4,30 @@ The Content service uses the Graph engine to communicate with Neo4j. The Graph e
 
 
 
+## Learning Assets  <a href="#object" id="object"></a>
+
+Knowledge has been the differeciator of human race from other species for a long time. Humans had understood the importance of knowledge and passed it to next-generation via stone carving, writing on leaf and manuscript etc.&#x20;
+
+In the era of digital age, learning and knowledge transfer has also become digital. Now all the knowledge is getting transferred via digital means.&#x20;
+
+Learning Assets is the core entity to serve the learning need of a user under the content of any domain. Learning assets can be Story, Quiz, Game, Instruction simulation etc. Learning Assets can manifest in formats such as  Audio, Video, Slides, Documents etc.&#x20;
+
+It can cater to different user groups in a _domain_ eg. In the school education context, learning assets for different user groups such as student, teacher and parent can be served via different type of assets such as learning content, video explanination etc orginaised in a textbook structure.
+
+
+
+![](<../../../../.gitbook/assets/Learning Assets interactions.png>)
+
+
+
+_Learning Assets is a generalized object created using the knowledge microservices. Learning assets (Content Object) is a configurable entity that can be extended to serve tons of use cases in multiple domains_&#x20;
+
+
+
+
+
+**Lifecycle of Learning assets**
+
 ## Object  <a href="#object" id="object"></a>
 
 This is the master definition for Types of items that are supported on sunbird.\

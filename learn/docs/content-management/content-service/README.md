@@ -50,27 +50,6 @@ Since an object is the core entity that can be used across multiple use cases in
 
 {% embed url="https://project-sunbird.atlassian.net/wiki/spaces/CO/pages/1572536374/Object+Types" %}
 
-## Category <a href="#category" id="category"></a>
-
-This represents the actual items that are defined and created based on different use cases.
-
-Unlike an **Object**, which is a core entity of the system, a category is just a “label” tagged to an object and can defined a specific set of properties and behaviors - which are a subset of those supported by the object.
-
-Hence, categories are completely driven by configuration, without any category specific logic implemented in the code.
-
-Example from education - _**Exam Question paper, Practice Worksheet, Quiz**_ each one is a category of the object type **Question set**\
-Analogous example from the real-world - A _**Shoe, Sandal, Flip-flops**_ each one is a category of the object type **foot wear**
-
-Following pages provide details of the various types of objects that are part of sunbird and a default set of categories configured.
-
-
-
-### References
-
-#### Confluence wikis
-
-{% embed url="https://project-sunbird.atlassian.net/wiki/spaces/CO/pages/1572339732/Categories" %}
-
 #### Youtube videos
 
 For further explanation of objects and categories can be found in the following videos:

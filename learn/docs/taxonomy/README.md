@@ -19,26 +19,5 @@ An open infrastructure for organizing knowledge across various learning content 
 * Auto-tagging using Machine Learning
 * Telemetry data for policymaking
 
-## Capabilities
-
-There are more than ten million teachers in India, many syllabi, many textbooks, varied pedagogic styles, methods, teaching techniques, and a wide diversity of student demographics and contexts. Taxonomy and tagging infrastructure makes it possible to easily categorize knowledge and makes it discoverable.
-
-Taxonomy framework enables
-
-* Efficient way of organizing digital assets&#x20;
-* Help users discover relevant content efficiently
-* Different frameworks can be created for different needs&#x20;
-* Each organization can define their frameworks
-
-![](../../../.gitbook/assets/taxonomy\_enables.png)
-
-
-
-&#x20;Taxonomy framework use case&#x20;
-
-{% embed url="https://www.youtube.com/watch?t=203s&v=EtYU11qNciQ" %}
-Taxonomy framework
-{% endembed %}
-
 [Taxonomy API](http://docs.sunbird.org/latest/apis/framework/)
 

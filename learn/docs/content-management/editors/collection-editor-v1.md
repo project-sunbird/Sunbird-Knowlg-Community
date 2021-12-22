@@ -2,7 +2,7 @@
 description: TDB
 ---
 
-# Collection Editor
+# Collection Editor - V1
 
 ### ![](../../../../.gitbook/assets/image.png)
 

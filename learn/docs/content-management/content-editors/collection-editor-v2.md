@@ -32,7 +32,7 @@ Please refer to the [config section of README.md](https://github.com/Sunbird-Ed/
 
 #### Internal Dependencies
 
-#### [Content Service](../content-service/)&#x20;
+#### [Content Service](../service/)&#x20;
 
 Content service APIs are being used to read the content details using READ/GET API calls.&#x20;
 

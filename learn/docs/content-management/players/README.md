@@ -1,8 +1,6 @@
-# Content Player
+# Players
 
-
-
-As the name indicates, it's a player/renderer to play/consume the content in mobile or web.
+The players are used for consuming the content by the end-user. It's a player or renderer to play (consume) the content in mobile or web.&#x20;
 
 * [Common Player](https://github.com/project-sunbird/sunbird-content-player) (ECML, HTML, PDF, EPUB, Video, youtube)
 * [PDF Player](https://github.com/project-sunbird/sunbird-pdf-player)

@@ -1,6 +1,6 @@
-# Interactive Editor
+# ECML Editor
 
-The content-editor is used to create [ECML contents](https://github.com/project-sunbird/sunbird-content-editor/wiki/ECML-Standard-v1.0). This editor is similar to Google slides. Where users can add slides & add some elements to the slide to present.
+The ECML editor is similar to Google slides. Using this editor the users can add slides and add some elements to the slide to present.
 
 Once the content is updated in the slides, users can preview the content on how
 
@@ -8,7 +8,7 @@ Once the content is updated in the slides, users can preview the content on how
 
 
 
-### How to use content editor:
+### How to use content editor
 
 [http://docs.sunbird.org/2.8.0/features-documentation/contenteditor/](http://docs.sunbird.org/2.8.0/features-documentation/contenteditor/)
 

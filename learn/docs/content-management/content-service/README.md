@@ -1,4 +1,4 @@
-# Content Service
+# Service
 
 The Content service uses the Graph engine to communicate with Neo4j. The Graph engine expects schema definitions for each object type. It validates the data object with the object definition during various CRUD operations.
 

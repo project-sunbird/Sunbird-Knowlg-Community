@@ -7,6 +7,6 @@ The content service is a set of APIs to manage asset objects (learning assets) a
 The knowledge management module consists of the following components:&#x20;
 
 * [Editors](content-editors/)&#x20;
-* [Players](players/)
-* [Service](service/)
-* [APIs](service/content-api.md)
+* [Players](content-player/)
+* [Service](content-service/)
+* [APIs](../../../docs/content/API/content-api.md)

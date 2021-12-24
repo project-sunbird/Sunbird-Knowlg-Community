@@ -2,9 +2,9 @@
 
 Sunbird Knowlg has powerful asset and knowledge management capabilities that can be used to create, curate, approve, publish, organise and manage large numbers of assets, e.g. millions of documents, several hundred hours of videos, thousands of interactive content, quizzes etc.&#x20;
 
-Assets created using Sunbird Knowlg are tagged using a multi-dimension tagging framework called Taxonomy.  This enriches the content's metadata and aids in their discovery.
+Assets created using Sunbird Knowlg are tagged using a multi-dimension tagging framework called Taxonomy.  This enriches the metadata and aids in content discovery.
 
-Assets are served to users using Search and Discovery Service.  The Search and Discovery take users' preferences and usage attributes like ratings into account while serving the user. Knowlg also has components ([players](learn/docs/content-management/players/)) to consume content. &#x20;
+Assets are served to users using Search and Discovery Service.  The Search and Discovery take users' preferences and usage attributes like ratings into account while serving the user. Knowlg also has components ([players](learn/docs/content-management/content-player/)) to consume content. &#x20;
 
 
 
@@ -19,11 +19,9 @@ Components on Knowlg building block
 
     TBD:&#x20;
 
-    #### How all the components of sunbird-knowlg platform are connected to each other
+    #### How all the components of sunbird-knowlg platform are connected to each other.
 
 
-
-TBD:&#x20;
 
 
 

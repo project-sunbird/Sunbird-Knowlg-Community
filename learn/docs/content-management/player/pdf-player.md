@@ -20,4 +20,4 @@ The [Common Player](common-player/) is package with all the content types. So It
 
 ### Git Repo
 
-{% embed url="https://github.com/project-sunbird/sunbird-pdf-player" %}
+{% embed url="https://github.com/project-sunbird/sunbird-pdf-player/tree/release-4.7.0" %}

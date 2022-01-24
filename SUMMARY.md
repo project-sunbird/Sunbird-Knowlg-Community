@@ -12,6 +12,7 @@
         * [How to setup](learn/docs/content-management/player/common-player/how-to-setup.md)
       * [PDF Player](learn/docs/content-management/player/pdf-player.md)
       * [Video Player](learn/docs/content-management/player/video-player.md)
+      * [Epub Player](learn/docs/content-management/player/epub-player.md)
     * [Editors](learn/docs/content-management/content-editors/README.md)
       * [Architecture](learn/docs/content-management/content-editors/architecture.md)
       * [Collection Editor - V1](learn/docs/content-management/content-editors/collection-editor-v1.md)

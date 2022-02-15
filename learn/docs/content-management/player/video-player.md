@@ -4,6 +4,14 @@ The [Common Player](common-player/) is package with all the content types. So It
 
 
 
+### Tech Stack
+
+1. Angular&#x20;
+2. Typescript
+3. Video.js
+4. SCSS
+5. HTML
+
 ### Git Repo
 
 {% embed url="https://github.com/project-sunbird/sunbird-video-player/tree/release-4.7.0" %}

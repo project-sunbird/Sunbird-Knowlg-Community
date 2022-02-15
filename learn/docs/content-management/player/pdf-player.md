@@ -18,6 +18,14 @@ The [Common Player](common-player/) is package with all the content types. So It
 
 &#x20;[https://project-sunbird.atlassian.net/wiki/spaces/CON/pages/1700102177/PDF+Player+v2.0+Architecture](https://project-sunbird.atlassian.net/wiki/spaces/CON/pages/1700102177/PDF+Player+v2.0+Architecture)
 
+### Tech Stack
+
+1. Angular&#x20;
+2. Typescript
+3. PDF.js
+4. SCSS
+5. HTML
+
 ### Git Repo
 
 {% embed url="https://github.com/project-sunbird/sunbird-pdf-player/tree/release-4.7.0" %}

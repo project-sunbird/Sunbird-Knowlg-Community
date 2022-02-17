@@ -10,11 +10,11 @@ Sunbird houses a wide variety of content. Users can create content on Sunbird or
 
 As the name indicates, there are multiple editors to create a specific type of content.
 
-| Editor                                                                            | Type                             | Mime types                                                                                                                       | Git Repo |
-| --------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| Resource [Editor](https://github.com/project-sunbird/sunbird-content-editor)      | Resource                         | ECML                                                                                                                             |          |
-| [Collection Editor](https://github.com/project-sunbird/sunbird-collection-editor) | Collection                       | <ul><li>Collection</li><li>Textbook</li><li>Course</li></ul>                                                                     |          |
-| [Generic Editor](https://github.com/project-sunbird/sunbird-generic-editor)       | Content/Resource (as a file/URL) | <p>Non ECML Contents</p><ul><li>PDF</li><li>Video (MP4, YouTube)</li><li><p>HTML (HTML, H5p)</p><ul><li>EPUB</li></ul></li></ul> |          |
+| Editor                                                                            | Type                             | Mime types                                                                                                                       | Git Repo                                                                          |
+| --------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Resource [Editor](https://github.com/project-sunbird/sunbird-content-editor)      | Resource                         | ECML                                                                                                                             | [Resource Editor](https://github.com/project-sunbird/sunbird-content-editor)      |
+| [Collection Editor](https://github.com/project-sunbird/sunbird-collection-editor) | Collection                       | <ul><li>Collection</li><li>Textbook</li><li>Course</li></ul>                                                                     | [Collection Editor](https://github.com/project-sunbird/sunbird-collection-editor) |
+| [Generic Editor](https://github.com/project-sunbird/sunbird-generic-editor)       | Content/Resource (as a file/URL) | <p>Non ECML Contents</p><ul><li>PDF</li><li>Video (MP4, YouTube)</li><li><p>HTML (HTML, H5p)</p><ul><li>EPUB</li></ul></li></ul> | [Generic Editor](https://github.com/project-sunbird/sunbird-Generic-editor)       |
 
 
 
@@ -22,7 +22,7 @@ As the name indicates, there are multiple editors to create a specific type of c
 
 ### Git Repo:
 
-Content Plugins repo is the common placeholder for all the plugins. Each editor will be configured with specific content-plugins while building the project.
+Content Plugins repo is the common placeholder for all the plugins. Each editor will be configured with specific plugins while building the project.
 
 #### Content-Plugins
 

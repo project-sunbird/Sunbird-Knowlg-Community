@@ -4,7 +4,7 @@ Sunbird Knowlg has powerful asset and knowledge management capabilities that can
 
 Assets created using Sunbird Knowlg are tagged using a multi-dimension tagging framework called Taxonomy.  This enriches the metadata and aids in content discovery.
 
-Assets are served to users using Search and Discovery Service.  The Search and Discovery take users' preferences and usage attributes like ratings into account while serving the user. Knowlg also has components ([players](learn/docs/content-management/player/)) to consume content. &#x20;
+Assets are served to users using Search and Discovery Service.  The Search and Discovery take users' preferences and usage attributes like ratings into account while serving the user. Knowlg also has components ([players](learn/docs/content-management/content-player/)) to consume content. &#x20;
 
 
 

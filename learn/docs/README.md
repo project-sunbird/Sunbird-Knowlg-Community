@@ -1,8 +1,8 @@
-# Component
+# Modules
 
-Sunbird Knowlg  consist of these modules which enable specific  functionality in the&#x20;
+Sunbird Knowlg enables specific functionality that consists of the following modules &#x20;
 
-**Content management**: Enabled content creation and management functionality by enabling various content types and search capability&#x20;
+**Asset management**: Enabled asset creation and management functionality by enabling various asset types and search capability&#x20;
 
 **DIAL Code**: Enables Physical to the digital transition of user's journey,
 

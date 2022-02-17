@@ -10,7 +10,7 @@ The [Common Player](common-player/) is package with all the content types. So It
 
 ### Architecture
 
-![](<../../../../.gitbook/assets/image (2).png>)
+[https://github.com/project-sunbird/sunbird-pdf-player/blob/release-4.8.0/Architecture.md](https://github.com/project-sunbird/sunbird-pdf-player/blob/release-4.8.0/Architecture.md)
 
 
 
@@ -22,9 +22,15 @@ The [Common Player](common-player/) is package with all the content types. So It
 
 1. Angular&#x20;
 2. Typescript
-3. PDF.js
+3. Javascript
 4. SCSS
 5. HTML
+
+### How to Use
+
+&#x20;[Angular Library ](https://github.com/project-sunbird/sunbird-pdf-player/tree/release-4.8.0#getting-started)
+
+[Web Component](https://github.com/project-sunbird/sunbird-pdf-player/tree/release-4.8.0#use-as-web-components)
 
 ### Git Repo
 

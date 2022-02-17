@@ -6,9 +6,7 @@ The [Common Player](common-player/) is package with all the content types. So It
 
 ### Architecture
 
-![](../../../../.gitbook/assets/image.png)
-
-
+[https://github.com/project-sunbird/sunbird-epub-player/blob/release-4.8.0/Architecture.md](https://github.com/project-sunbird/sunbird-epub-player/blob/release-4.8.0/Architecture.md)
 
 **Design Document**:
 
@@ -18,9 +16,15 @@ The [Common Player](common-player/) is package with all the content types. So It
 
 1. Angular&#x20;
 2. Typescript
-3. Epub.js
+3. Javascript
 4. SCSS
 5. HTML
+
+### How to Use
+
+&#x20;[Angular Library](https://github.com/project-sunbird/sunbird-epub-player/tree/release-4.8.0#getting-started)&#x20;
+
+[Web Component](https://github.com/project-sunbird/sunbird-epub-player/tree/release-4.8.0#use-as-web-components)
 
 ### Git Repo
 

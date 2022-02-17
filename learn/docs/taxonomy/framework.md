@@ -17,7 +17,7 @@ Taxonomy framework enables&#x20;
 * Different frameworks can be created for different needs&#x20;
 * Each organization can define their frameworks
 
-![](../../../../.gitbook/assets/taxonomy\_enables.png)
+![](../../../.gitbook/assets/taxonomy\_enables.png)
 
 Taxonomy framework usecase
 

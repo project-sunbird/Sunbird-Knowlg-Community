@@ -4,9 +4,9 @@ description: >-
   rules for creating different type of objects for a particular category.
 ---
 
-# Object Category Management APIs
+# APIs
 
 [Object Category APIs](http://docs.sunbird.org/latest/apis/objectcategory/)
 
 * Object Category Create, Read and Update
-* Object Category Create, Read and Update&#x20;
+* Object Category Defintion Create, Read and Update&#x20;

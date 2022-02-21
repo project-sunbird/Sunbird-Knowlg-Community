@@ -4,7 +4,7 @@ As the Collection-Editor evolves to create the collection contents like(Textbook
 
 To overcome the above challenges the new collection-editor version-2 built with an upgraded tech stack.
 
-
+Before going to the next section, You should know about [object category definition](https://project-sunbird.atlassian.net/wiki/spaces/SingleSource/pages/2696183813/How+to+configure+forms+in+primaryCategory#Overview) is the key part of the configuration to load the editor.&#x20;
 
 ### Tech Stack
 
@@ -14,11 +14,11 @@ To overcome the above challenges the new collection-editor version-2 built with 
 
 ### How to setup
 
-Please refer to the [README.md](https://github.com/Sunbird-Ed/sunbird-collection-editor/tree/release-4.5.0#readme) of the below [git repository](collection-editor-v2.md#git-repo)
+Please refer to the [README](https://github.com/Sunbird-Ed/sunbird-collection-editor/tree/release-4.8.0#readme).md of the below [git repository](collection-editor-v2.md#git-repo)
 
 ### Configuration
 
-Please refer to the [config section of README.md](https://github.com/Sunbird-Ed/sunbird-collection-editor/tree/release-4.5.0#input-for-library) file of the below [git repository](collection-editor-v2.md#git-repo)
+Please refer to the [config section of README.md ](https://github.com/vaibhavbhuva/sunbird-collection-editor-1/blob/release-4.8.0/docs/CONFIGURATION.md)file of the below [git repository](collection-editor-v2.md#git-repo)
 
 ### Git Repo
 

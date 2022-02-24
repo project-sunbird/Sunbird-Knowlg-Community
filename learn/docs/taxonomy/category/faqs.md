@@ -1,0 +1,24 @@
+---
+description: >-
+  This page answers frequently asked questions about Object Category and Object
+  Category Definition.
+---
+
+# FAQs
+
+### How to create an object category definition?
+
+In order to [create object category definition](http://docs.sunbird.org/latest/apis/objectcategory/#operation/Create%20Object%20Category%20Definition), master category of the primary category should be created first.
+
+### Can I change datatype of a property using object category definition?
+
+No, datatype of a property cannot be changed. Only, property value range list and default value of a property can be updated using the [object category definition API](http://docs.sunbird.org/latest/apis/objectcategory/#operation/Update%20Object%20Category%20Definition).&#x20;
+
+### Is it mandatory to mention all properties of object schema during object category definition creation?
+
+No, only necessary properties to be overriden can be mentioned.
+
+### Can I add new properties to object schema using object category definition instead of schema.json?
+
+No, new properties cannot be added to object category definition.
+

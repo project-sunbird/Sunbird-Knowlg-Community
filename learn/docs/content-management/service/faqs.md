@@ -50,3 +50,107 @@ ECML content 'body' can be fetched using 'Read Content API' URL in the format '/
 
 When a Content/Collection object Publish API is invoked, after metadata validation, content-publish flink job is invoked using respective kafka topic. In the flink job, post the pkgVersion validation, a content is first updated to 'Processing' status. Later, packaging of the content starts (ECAR generation) with types ONLINE, SPINE and FULL (this type is skipped for collection). Once ECAR is generated and uploaded to cloud, status is updated to 'Live'.  &#x20;
 
+### How to upload a content?
+
+{% embed url="http://docs.sunbird.org/latest/developer-docs/how-to-guide/how_to_upload_existing_content" %}
+
+### What file formats can be uploaded as content?
+
+Currently, the platform supports the following formats for compiled content:
+
+* Text (.pdf)
+* Video (.mp4, .webm, YouTube URLs)
+* HTML (as .zip)
+* ECML (created using the inbuilt content editor)
+* EPUB
+* H5P
+
+### How the HTML zip content needs to be packaged for upload?
+
+* 'index.html' in the .zip is a must.
+* There can be only one level of folders directly inside zip. sub folders (Folders within folders) are not allowed/may not work well.
+* File names and Folder names should not contain special characters. It can only be alphanumeric.
+
+### How to use operators in content search API or composite search API?
+
+Any of the attributes of content model can be used in the filters. By default, content search API returns objects having 'status' as "Live" and "visibility" as "default". Default 'limit' is 100.&#x20;
+
+#### **Operators:**&#x20;
+
+Filters are by default searched based on equals match, that is case insensitive but the request can specify other operators to search against the fields. These are as follows:&#x20;
+
+**String fields:**&#x20;
+
+* Default - String match, contains case insensitive
+* startsWith - String match, starts with
+* endsWith - String match, ends with
+* contains - contains match
+* value - contains match
+* Array - Exact match with any of the given values
+
+**Number fields:**&#x20;
+
+* Default - Equals
+* \>= - Greater than or equals
+* \> - Greater than
+* <= - Less than or equals
+* < - Less than
+* Array - Exact match with any of the given values
+
+#### Examples
+
+**Sample 1** - Find all node types that contain specific search term (content, words, assets)&#x20;
+
+{ "request": { "query":"elephant", "limit":10 } }
+
+**Sample 2** - Find only TextBook
+
+{ "request": {"filters":{"contentType":"Textbook"}, "limit":10 } }
+
+**Sample 3** - Find resources less than 1MB
+
+{ "request": {"filters":{"contentType":"Resource", "size": {"<=" : "1000000"\}}, "limit":10 } }
+
+**Sample 4** - Find resources whose 'name' starts with "A" (e.g. for alphabetic navigation)
+
+{ "request": { "filters": { "contentType":"Resource", "name": { "startsWith": "A" } } } }
+
+**Sample 5** - Find resources without 'appIcon'
+
+{ "request": { "filters": { "contentType":"Resource" }, "not\_exists":\["appIcon"] } }
+
+**Sample 6** - Find resources with 'appIcon'
+
+{ "request": { "filters": { "contentType":"Resource"}, "exists":\["appIcon"] } }
+
+**Sample 7** - Find resources and aggregate results by 'language' and 'subject'
+
+{ "request": { "filters": { "contentType":"Resource"}, "facets":\["language","subject"] } }
+
+**Sample 8** - Find resources and sort results by name ascending and size desc
+
+{ "request": { "filters": { "contentType":"Resource"}, "sort\_by":{"name":"asc", "size":"desc"} } }
+
+**Sample 9** - Get first 10 results
+
+{ "request": { "filters": { "contentType":"Resource"}, "sort\_by":{"name":"asc", "size":"desc"}, "offset": 0, "limit": 10 } }
+
+**Sample 10** - Get 4th page of results. Results from 30 - 40 index.
+
+{ "request": { "filters": { "contentType":"Resource"}, "sort\_by":{"name":"asc", "size":"desc"}, "offset": 30, "limit": 10 } }
+
+**Sample 11** - Get the fields specified.
+
+{ "request": { "filters": { "contentType":"Resource"}, "exists":\["appIcon"], "fields":\["name","description","identifier","mimeType","createdOn"] } }
+
+**Sample 12** - Search for content with soft constraints
+
+{ "request": { "filters": { "objectType": \["Content"], "contentType": \["Story"], "gradeLevel" : \["Grade 1"], "ageGroup" : \["5-6"], "status": \["Live"] }, "mode" : \["soft"], "softConstraints": {"ageGroup" : 2, "gradeLevel" : 3 } } }
+
+**Sample 13** - Find resources created between a time range
+
+{ "request": { "filters": { "contentType":"Resource", "createdOn": {">=":"2020-07-28T01:27:16.559+0000", "<":"2021-10-28T01:27:16.559+0000"} }, "sort\_by":{"name":"asc"}, "offset": 0, "limit": 10 } }
+
+**Sample 14** - Find published Textbooks to which a content is linked to
+
+{ "request": { "filters": { "contentType":"TextBook", "leafNodes": {"contains": "do\_Id_\__content"} }, "sort\_by":{"name":"asc"} } }

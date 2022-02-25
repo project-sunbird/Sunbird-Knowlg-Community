@@ -26,6 +26,8 @@ The [Common Player](../content-player/common-player/) is package with all the co
 
 [Web Component](https://github.com/project-sunbird/sunbird-epub-player/tree/release-4.8.0#use-as-web-components)
 
+[Mobile app](https://github.com/project-sunbird/sunbird-epub-player/tree/release-4.8.0#mobile-app-integration-steps)
+
 ### Git Repo
 
 {% embed url="https://github.com/project-sunbird/sunbird-epub-player/tree/release-4.7.0" %}

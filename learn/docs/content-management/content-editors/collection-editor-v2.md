@@ -4,7 +4,16 @@ As the Collection-Editor evolves to create the collection contents like(Textbook
 
 To overcome the above challenges the new collection-editor version-2 built with an upgraded tech stack.
 
-Before going to the next section, You should know about [object category definition](https://project-sunbird.atlassian.net/wiki/spaces/SingleSource/pages/2696183813/How+to+configure+forms+in+primaryCategory#Overview) is the key part of the configuration to load the editor.&#x20;
+Before going to the next section, You should know about [object category definition](https://project-sunbird.atlassian.net/wiki/spaces/SingleSource/pages/2696183813/How+to+configure+forms+in+primaryCategory#Overview) is the key part of the configuration to load the editor. \
+\
+Following are the configuration for different types of collections.
+
+1. ****[**Digital Textbook**](https://github.com/Sunbird-Ed/sunbird-collection-editor/blob/release-4.8.0/docs/Digital%20Textbook.json)****
+2. ****[**Course**](https://github.com/Sunbird-Ed/sunbird-collection-editor/blob/0b25c7d27aa559a20a58d3d204086b1f6e28141c/docs/Course.json)****
+
+### Architecture
+
+[https://github.com/Sunbird-Ed/sunbird-collection-editor/blob/release-4.8.0/docs/Architecture.md](https://github.com/Sunbird-Ed/sunbird-collection-editor/blob/release-4.8.0/docs/Architecture.md)
 
 ### Tech Stack
 

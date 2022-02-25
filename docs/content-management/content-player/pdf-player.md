@@ -34,6 +34,8 @@ The [Common Player](../../../learn/docs/content-management/content-player/common
 
 [Mobile App](https://github.com/project-sunbird/sunbird-pdf-player/tree/release-4.8.0#mobile-app-integration-steps)
 
+[Mobile App](https://github.com/project-sunbird/sunbird-pdf-player/tree/release-4.8.0#mobile-app-integration-steps)
+
 ### Git Repo
 
 {% embed url="https://github.com/project-sunbird/sunbird-pdf-player/tree/release-4.7.0" %}

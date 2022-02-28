@@ -28,11 +28,9 @@ The [Common Player](../../../learn/docs/content-management/content-player/common
 
 ### How to Use
 
-&#x20;[Angular Library ](pdf-player.md#usecase)
+[Angular Library](https://github.com/project-sunbird/sunbird-pdf-player/tree/release-4.8.0#getting-started)&#x20;
 
 [Web Component](https://github.com/project-sunbird/sunbird-pdf-player/tree/release-4.8.0#use-as-web-components)
-
-[Mobile App](https://github.com/project-sunbird/sunbird-pdf-player/tree/release-4.8.0#mobile-app-integration-steps)
 
 [Mobile App](https://github.com/project-sunbird/sunbird-pdf-player/tree/release-4.8.0#mobile-app-integration-steps)
 

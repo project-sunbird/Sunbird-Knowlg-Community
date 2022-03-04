@@ -71,6 +71,10 @@ Currently, the platform supports the following formats for compiled content:
 * There can be only one level of folders directly inside zip. sub folders (Folders within folders) are not allowed/may not work well.
 * File names and Folder names should not contain special characters. It can only be alphanumeric.
 
+### Which attribute of a content contains the uploaded source file path?
+
+When a file is uploaded as a content, source file is copied to the configured cloudstorage blob path and the blob path url is saved in '**artifactUrl**' attribute. When a video content is published, as a post publish process, streaming source is generated and the path is saved in '**streamingUrl**' attribute.
+
 ### How to use operators in content search API or composite search API?
 
 Any of the attributes of content model can be used in the filters. By default, content search API returns objects having 'status' as "Live" and "visibility" as "default". Default 'limit' is 100.&#x20;

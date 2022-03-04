@@ -20,5 +20,5 @@ No, only necessary properties to be overriden can be mentioned.
 
 ### Can I add new properties to object schema using object category definition instead of schema.json?
 
-No, new properties cannot be added to object category definition.
+Yes, new properties can be added to object category definition.
 

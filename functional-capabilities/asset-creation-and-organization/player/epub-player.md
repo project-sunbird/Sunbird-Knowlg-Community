@@ -1,6 +1,6 @@
 # Epub Player
 
-The [Common Player](../content-player/common-player/) is package with all the content types. So It became bulky & little slow while lauching the content. Hence we split the PDF player as an independent player to improve the performance & load time while launching the content.
+The [Common Player](common-player/) is package with all the content types. So It became bulky & little slow while lauching the content. Hence we split the PDF player as an independent player to improve the performance & load time while launching the content.
 
 
 

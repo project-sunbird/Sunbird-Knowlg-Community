@@ -1,6 +1,6 @@
 # Video Player
 
-The [Common Player](../../../learn/docs/content-management/content-player/common-player/) is packaged with all the asset types. Gradually it was spilt in independent players, **video player** and **YouTube player**, to enable quick launch, this improved the performance and load time.
+The [Common Player](common-player/) is packaged with all the asset types. Gradually it was spilt in independent players, **video player** and **YouTube player**, to enable quick launch, this improved the performance and load time.
 
 
 

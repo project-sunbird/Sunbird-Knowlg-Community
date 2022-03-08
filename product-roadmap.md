@@ -1,6 +1,6 @@
 # Product Roadmap
 
-| Sr. No | What (with JIRA link)                                                                                                                                                                                 | Target release | Who    | Status      |
+| Sl. No | What (with JIRA link)                                                                                                                                                                                 | Target release | Who    | Status      |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------ | ----------- |
 | 1      | Update of Knowlg DIAL services to the latest DIAL spec                                                                                                                                                | JFM '22        | Ekstep | In-progress |
 | 2      | Update the documentation of the microsite so that adopters can understand the capabilities of knowlg, use cases it can enable, the tech architecture and steps to instantiate knowlg for their needs. | JFM '22        | Ekstep | In-progress |
@@ -12,3 +12,4 @@
 | 8      | Software upgrades                                                                                                                                                                                     | AMJ '22        | Ekstep | In-progress |
 | 9      | Update the microsite with the load testing benchmarking results                                                                                                                                       | JFM '22        | Ekstep | Not started |
 | 10     | Standardization of error codes for ease of debuggability                                                                                                                                              | Future         |        | Not started |
+

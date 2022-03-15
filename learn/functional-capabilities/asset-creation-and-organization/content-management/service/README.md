@@ -16,7 +16,7 @@ It can cater to different user groups in a _domain_ eg. In the school education 
 
 
 
-![](<../../../../.gitbook/assets/Learning Assets interactions.png>)
+![](<../../../../../.gitbook/assets/Learning Assets interactions.png>)
 
 
 
@@ -28,7 +28,7 @@ Lifecycle of learning assets is a 5 stage cyclic process, Learning Assets follow
 
 Draft --> Review --> Publish --> Package --> Update&#x20;
 
-![Asset lifecycle](<../../../../.gitbook/assets/Asset LifeCycle (1).png>)
+![Asset lifecycle](<../../../../../.gitbook/assets/Asset LifeCycle (1).png>)
 
 The initial stage of asset creation is _Draft_. In this stage asset creation happens. After the creation asset move to the _Review_ stage_._ In the _review_ stage, __ the reviewer approves, reject or request changes in the assets. Reject and request change assets move back to the Draft stage. While approved assets move to Publish stage.&#x20;
 
@@ -44,7 +44,7 @@ An object is the core system entity through which any type of asset is managed. 
 
 Since an object is the core entity that can be used across multiple use cases in multiple ways, it has to be defined, managed and support wide variety of behaviours, in a very generalized way, so that it can be easily reused in wide range of use cases.
 
-![](<../../../../.gitbook/assets/Screenshot from 2021-11-25 08-59-20.png>) ![](<../../../../.gitbook/assets/Screenshot from 2021-11-25 08-59-32.png>)
+![](<../../../../../.gitbook/assets/Screenshot from 2021-11-25 08-59-20.png>) ![](<../../../../../.gitbook/assets/Screenshot from 2021-11-25 08-59-32.png>)
 
 
 

@@ -5,7 +5,7 @@ description: >-
   API that enables create, retrieve, delete, publi
 ---
 
-# Dialcode
+# Phygital discovery
 
 DIAL refers to _Digital Infrastructure for Augmented learning_. It provides tools for DIAL code management. DIAL powers the discovery of digital resources using physical artefacts like QR codes, can be extended to other physical artefacts. DIAL code does the loose binding of digital assets with physical artefacts.
 

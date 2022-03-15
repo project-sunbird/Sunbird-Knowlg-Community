@@ -5,7 +5,7 @@ description: >-
   same but only the usage changes.
 ---
 
-# Framework Management APIs
+# APIs
 
 [FRAMEWORK APIs](http://docs.sunbird.org/latest/apis/framework/)
 

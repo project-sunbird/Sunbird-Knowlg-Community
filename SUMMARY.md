@@ -42,6 +42,7 @@
   * [Analytics ](learn/functional-capabilities/analytics.md)
 * [Use Cases](learn/use-cases.md)
 * [Technical Architecture](learn/technical-architecture.md)
+* [Product & Developer Guide](learn/product-and-developer-guide.md)
 * [Try it out](learn/try-it-out.md)
 * [Product Roadmap](learn/product-roadmap.md)
 * [Modules](learn/docs/README.md)

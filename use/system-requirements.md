@@ -1,6 +1,6 @@
 # System requirements
 
-### Editor & Players
+### Editors & Players
 
 * Microsoft Visual Studio Code or any code editor(JS, HTML & Typesciprt)
 * Node JS ( version 8. x or >10. x )

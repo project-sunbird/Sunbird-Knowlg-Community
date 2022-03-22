@@ -1,4 +1,6 @@
-# Asset Management
+# Rich and Diverse Assets
+
+
 
 Asset management modules enable to manage and define different assets and their properties using various tools and frameworks in Sunbird.&#x20;
 
@@ -12,7 +14,6 @@ In most of the following pages about asset management and its component, the ass
 
 The asset management module consists of the following components:&#x20;
 
-* [Editors](../editors/): The editor provides the tools to create and manage assets using UI on top of APIs.
-* [Players](../player/): The player is used for consuming the asset by the end-user.
-* [Service](service/): The asset service is a set of APIs to manage asset objects (learning assets) and their lifecycle (creation, modification, reviewing, publishing, retrieval)
-
+* [Editors](../product-and-developer-guide/editors/): The editor provides the tools to create and manage assets using UI on top of APIs.
+* [Players](../product-and-developer-guide/player/): The player is used for consuming the asset by the end-user.
+* [Service](../product-and-developer-guide/service/): The asset service is a set of APIs to manage asset objects (learning assets) and their lifecycle (creation, modification, reviewing, publishing, retrieval)

@@ -41,7 +41,7 @@ Please refer to the [config section of README.md ](https://github.com/vaibhavbhu
 
 #### Internal Dependencies
 
-#### [Content Service](../service/)&#x20;
+#### [Content Service](../content-service/)&#x20;
 
 Content service APIs are being used to read the content details using READ/GET API calls.&#x20;
 

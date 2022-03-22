@@ -11,5 +11,6 @@
 | 7      | Update the contribution guidelines to Knowlg                                                                                                                                                          | JFM '22        |        | Not started |
 | 8      | Software upgrades                                                                                                                                                                                     | AMJ '22        | Ekstep | In-progress |
 | 9      | Update the microsite with the load testing benchmarking results                                                                                                                                       | JFM '22        | Ekstep | Not started |
-| 10     | Standardization of error codes for ease of debuggability                                                                                                                                              | Future         |        | Not started |
+| 10     | API automated functional test cases                                                                                                                                                                   | JAS            | Ekstep |             |
+| 11     | Standardization of error codes for ease of debuggability                                                                                                                                              | Future         |        | Not started |
 

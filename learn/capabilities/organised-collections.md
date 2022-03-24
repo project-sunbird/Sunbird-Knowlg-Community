@@ -6,6 +6,10 @@ Collections are a multi-level hierarchical set of assets -content, question sets
 
 The key capabilities of Collections are:
 
+* Ability to create various categories of collections as per your solution or specific to your domain needs.
+
+![](<../../.gitbook/assets/Screen Shot 2022-03-24 at 4.23.24 PM.png>)
+
 * Provides you the ability to organize your assets in a multi-level hierarchy. Each level of hierarchy can have one or more folders to group the assets.
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-24 at 3.45.35 PM.png>)

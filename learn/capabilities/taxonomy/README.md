@@ -1,5 +1,15 @@
-# Discovery & search
+# Powerful Discovery
 
+## Components
+
+| Services     | Description |
+| ------------ | ----------- |
+| Asset search |             |
+| Taxonomy     |             |
+| DIAL         |             |
+
+\
+\
 Sunbird Taxonomy is a powerful engine that allows multiple taxonomies and frameworks (for building curriculums, competency maps, etc.) to be defined within the platform so that assets can be organized and accessed accordingly.
 
 The Taxonomy module enables flexibility to support multiple pedagogic frameworks, different ways of classification and organization of learning assets along with tools to allow the community to manage the taxonomy.

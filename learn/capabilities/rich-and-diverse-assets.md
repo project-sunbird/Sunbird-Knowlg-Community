@@ -12,7 +12,7 @@ Knowlg provides a generalized and externalized asset model as shown in the below
 
 ![Generalized and Externalized Asset Model](<../../.gitbook/assets/Screen Shot 2022-03-24 at 11.38.56 AM.png>)
 
-### &#x20;**Key capabilities of Sunbird Assets:**
+### &#x20;**Key Capabilities of Sunbird Assets:**
 
 * Enables you to define your own domain specific assets and their properties using configurable and extensible attributes.
 
@@ -33,7 +33,21 @@ Analogous example from the real-world - A _**Shoe, Sandal, Flip-flops**_ each on
 
 ![Example - Asset tagging frameworks in the Education Domain](<../../.gitbook/assets/Screen Shot 2022-03-24 at 11.58.43 AM.png>)
 
-~~Asset management modules enable to manage and define different assets and their properties using various tools and frameworks in Sunbird.~~&#x20;
+* Provides tools such as editors and players to create and consume these assets.
+
+### Types of Assets
+
+Below assets are currently defined in Sunbird. You can define new assets basis your needs.
+
+* Content - This asset allows you to create a variety of content enabling you to deliver rich learning experiences.
+* Collections - click here to know more about this asset type
+* Question(s) - click here to know more about this asset type
+* Question Set - click here to know more about this asset type
+* Media Resources - This asset type comprises of lowest level of reusable assets such as images, video, audio files etc
+
+
+
+####
 
 ### ~~Asset~~
 

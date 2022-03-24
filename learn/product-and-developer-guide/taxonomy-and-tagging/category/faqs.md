@@ -22,3 +22,7 @@ No, only necessary properties to be overriden can be mentioned.
 
 Yes, new properties can be added to object category definition.
 
+### How to fetch list of primaryCategories defined/configured in the System?
+
+List of configured primary categories can be fetched using '[Composite Search API](http://docs.sunbird.org/latest/apis/searchapi/#operation/Composite%20Search)'.\
+`{ "request": { "filters": { "status": [], "objectType":["ObjectCategoryDefintion","ObjectCategory"] }, "limit": 100, "sortby": "Desc" } }`

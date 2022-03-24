@@ -10,10 +10,6 @@ These APIs are used to manage object type - Content.&#x20;
 * Content [Search](http://docs.sunbird.org/latest/apis/contentapi/index.html#operation/Search%20Content), [Copy](http://docs.sunbird.org/latest/apis/contentapi/index.html#operation/Copy%20Content) & [Import](http://docs.sunbird.org/latest/apis/contentapi/index.html#operation/Import%20Content)
 * [Content Lock APIs](http://docs.sunbird.org/latest/apis/lockService/index.html)
 
-### [Composite Search API ](http://docs.sunbird.org/latest/apis/searchapi/)
-
-These APIs are used for Content/Collection/Asset discoverability.&#x20;
-
 ### [Collection Management AP<mark style="color:blue;">Is</mark>](http://docs.sunbird.org/latest/apis/collectionapi/index.html)<mark style="color:blue;"></mark>
 
 These APIs are used to manage object type - Collection.&#x20;

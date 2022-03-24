@@ -30,7 +30,9 @@ Yes, using [Add Hierarchy API](http://docs.sunbird.org/latest/apis/collectionapi
 
 ### How is Search Content API different from Composite Search API?
 
-[Search Content API](http://docs.sunbird.org/latest/apis/contentapi/index.html#operation/Search%20Content) can be used for fetching object Types 'Content', 'ContentImage', 'Collection', 'CollectionImage', 'QuestionSet' and 'Asset' only. Whereas, [Composite search API](http://docs.sunbird.org/latest/apis/searchapi/#tag/Search-APIs) can be used for fetching all types of objects in the application ('Content', 'ContentImage', 'Collection', 'CollectionImage', 'QuestionSet', 'QuestionSetImage', 'Asset', 'Channel', 'Framework', 'ObjectCategory', 'ObjectCategoryDefintion', 'License', 'Question', etc. )
+[Search Content API](http://docs.sunbird.org/latest/apis/contentapi/index.html#operation/Search%20Content) can be used for fetching object types 'Content', 'ContentImage', 'Collection', 'CollectionImage' and 'Asset' only. Whereas, [Composite search API](http://docs.sunbird.org/latest/apis/searchapi/#tag/Search-APIs) can be used for fetching all types of objects in the application ('Content', 'ContentImage', 'Collection', 'CollectionImage', 'QuestionSet', 'QuestionSetImage', 'Asset', 'Channel', 'Framework', 'ObjectCategory', 'ObjectCategoryDefintion', 'License', 'Question', etc. )
+
+Note: All attributes in [respective object schemas'](https://github.com/project-sunbird/knowledge-platform/tree/master/schemas) can be used for searching in API filters. However, 'objectType' attribute cannot be used in [Search Content API](http://docs.sunbird.org/latest/apis/contentapi/index.html#operation/Search%20Content).
 
 ### How are the content/collection objects stored in database?
 
@@ -75,86 +77,3 @@ Currently, the platform supports the following formats for compiled content:
 
 When a file is uploaded as a content, source file is copied to the configured cloudstorage blob path and the blob path url is saved in '**artifactUrl**' attribute. When a video content is published, as a post publish process, streaming source is generated and the path is saved in '**streamingUrl**' attribute.
 
-### How to use operators in content search API or composite search API?
-
-Any of the attributes of content model can be used in the filters. By default, content search API returns objects having 'status' as "Live" and "visibility" as "default". Default 'limit' is 100.&#x20;
-
-#### **Operators:**&#x20;
-
-Filters are by default searched based on equals match, that is case insensitive but the request can specify other operators to search against the fields. These are as follows:&#x20;
-
-**String fields:**&#x20;
-
-* Default - String match, contains case insensitive
-* startsWith - String match, starts with
-* endsWith - String match, ends with
-* contains - contains match
-* value - contains match
-* Array - Exact match with any of the given values
-
-**Number fields:**&#x20;
-
-* Default - Equals
-* \>= - Greater than or equals
-* \> - Greater than
-* <= - Less than or equals
-* < - Less than
-* Array - Exact match with any of the given values
-
-#### Examples
-
-**Sample 1** - Find all node types that contain specific search term (content, words, assets)&#x20;
-
-{ "request": { "query":"elephant", "limit":10 } }
-
-**Sample 2** - Find only TextBook
-
-{ "request": {"filters":{"contentType":"Textbook"}, "limit":10 } }
-
-**Sample 3** - Find resources less than 1MB
-
-{ "request": {"filters":{"contentType":"Resource", "size": {"<=" : "1000000"\}}, "limit":10 } }
-
-**Sample 4** - Find resources whose 'name' starts with "A" (e.g. for alphabetic navigation)
-
-{ "request": { "filters": { "contentType":"Resource", "name": { "startsWith": "A" } } } }
-
-**Sample 5** - Find resources without 'appIcon'
-
-{ "request": { "filters": { "contentType":"Resource" }, "not\_exists":\["appIcon"] } }
-
-**Sample 6** - Find resources with 'appIcon'
-
-{ "request": { "filters": { "contentType":"Resource"}, "exists":\["appIcon"] } }
-
-**Sample 7** - Find resources and aggregate results by 'language' and 'subject'
-
-{ "request": { "filters": { "contentType":"Resource"}, "facets":\["language","subject"] } }
-
-**Sample 8** - Find resources and sort results by name ascending and size desc
-
-{ "request": { "filters": { "contentType":"Resource"}, "sort\_by":{"name":"asc", "size":"desc"} } }
-
-**Sample 9** - Get first 10 results
-
-{ "request": { "filters": { "contentType":"Resource"}, "sort\_by":{"name":"asc", "size":"desc"}, "offset": 0, "limit": 10 } }
-
-**Sample 10** - Get 4th page of results. Results from 30 - 40 index.
-
-{ "request": { "filters": { "contentType":"Resource"}, "sort\_by":{"name":"asc", "size":"desc"}, "offset": 30, "limit": 10 } }
-
-**Sample 11** - Get the fields specified.
-
-{ "request": { "filters": { "contentType":"Resource"}, "exists":\["appIcon"], "fields":\["name","description","identifier","mimeType","createdOn"] } }
-
-**Sample 12** - Search for content with soft constraints
-
-{ "request": { "filters": { "objectType": \["Content"], "contentType": \["Story"], "gradeLevel" : \["Grade 1"], "ageGroup" : \["5-6"], "status": \["Live"] }, "mode" : \["soft"], "softConstraints": {"ageGroup" : 2, "gradeLevel" : 3 } } }
-
-**Sample 13** - Find resources created between a time range
-
-{ "request": { "filters": { "contentType":"Resource", "createdOn": {">=":"2020-07-28T01:27:16.559+0000", "<":"2021-10-28T01:27:16.559+0000"} }, "sort\_by":{"name":"asc"}, "offset": 0, "limit": 10 } }
-
-**Sample 14** - Find published Textbooks to which a content is linked to
-
-{ "request": { "filters": { "contentType":"TextBook", "leafNodes": {"contains": "do\_Id_\__content"} }, "sort\_by":{"name":"asc"} } }

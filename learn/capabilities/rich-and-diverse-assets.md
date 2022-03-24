@@ -35,6 +35,8 @@ Analogous example from the real-world - A _**Shoe, Sandal, Flip-flops**_ each on
 
 * Provides tools such as editors and players to create and consume these assets.
 
+![Editors & Players](<../../.gitbook/assets/Screen Shot 2022-03-24 at 1.12.09 PM.png>)
+
 ### Types of Assets
 
 Below assets are currently defined in Sunbird. You can define new assets basis your needs.

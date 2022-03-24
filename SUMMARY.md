@@ -53,7 +53,9 @@
 
 * [Overview](use/overview.md)
 * [System requirements](use/system-requirements.md)
-* [Installation guide](use/installation-guide.md)
+* [Installation guide](use/installation-guide/README.md)
+  * [Players](use/installation-guide/players.md)
+  * [Editors](use/installation-guide/editors.md)
 * [Release notes](use/release-notes.md)
 * [USE](use/use.md)
 

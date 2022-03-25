@@ -7,9 +7,7 @@
   * [Rich and Diverse Assets](learn/capabilities/rich-and-diverse-assets.md)
   * [Organised Collections](learn/capabilities/organised-collections.md)
   * [Asset Lifecycle Management](learn/capabilities/asset-lifecycle-management.md)
-  * [Powerful Discovery](learn/capabilities/taxonomy/README.md)
-    * [Usecase](https://www.youtube.com/watch?v=EtYU11qNciQ\&t=203s)
-    * [Sample data](https://sunbirddev.blob.core.windows.net/sunbird-content-dev/framework/ncf-framework.json)
+  * [Powerful Discovery](learn/capabilities/powerful-discovery.md)
   * [Phygital discovery](learn/capabilities/dialcode/README.md)
     * [Usecase](https://www.youtube.com/watch?v=EtYU11qNciQ\&t=612s)
     * [Architecture](learn/capabilities/dialcode/architecture.md)
@@ -70,3 +68,9 @@
   * [Editors](use/installation-guide/editors.md)
 * [Release notes](use/release-notes.md)
 * [USE](use/use.md)
+
+## Archived
+
+* [Powerful Discovery](archived/taxonomy/README.md)
+  * [Usecase](https://www.youtube.com/watch?v=EtYU11qNciQ\&t=203s)
+  * [Sample data](https://sunbirddev.blob.core.windows.net/sunbird-content-dev/framework/ncf-framework.json)

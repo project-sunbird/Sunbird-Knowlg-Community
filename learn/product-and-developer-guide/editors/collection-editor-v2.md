@@ -4,53 +4,16 @@ As the Collection-Editor evolves to create the collection contents like(Textbook
 
 To overcome the above challenges the new collection-editor version-2 built with an upgraded tech stack.
 
-Before going to the next section, You should know about [object category definition](https://project-sunbird.atlassian.net/wiki/spaces/SingleSource/pages/2696183813/How+to+configure+forms+in+primaryCategory#Overview) is the key part of the configuration to load the editor. \
-\
-Following are the configuration for different types of collections.
-
-1. ****[**Digital Textbook**](https://github.com/Sunbird-Ed/sunbird-collection-editor/blob/release-4.8.0/docs/Digital%20Textbook.json)****
-2. ****[**Course**](https://github.com/Sunbird-Ed/sunbird-collection-editor/blob/0b25c7d27aa559a20a58d3d204086b1f6e28141c/docs/Course.json)****
-
-### Architecture
-
-[https://github.com/Sunbird-Ed/sunbird-collection-editor/blob/release-4.8.0/docs/Architecture.md](https://github.com/Sunbird-Ed/sunbird-collection-editor/blob/release-4.8.0/docs/Architecture.md)
-
 ### Tech Stack
 
 * **Angular v9**
 * **HTML, SCSS**
 * **Typescript**
 
-### How to setup
-
-Please refer to the [README](https://github.com/Sunbird-Ed/sunbird-collection-editor/tree/release-4.8.0#readme).md of the below [git repository](collection-editor-v2.md#git-repo)
-
-### Configuration
-
-Please refer to the [config section of README.md ](https://github.com/vaibhavbhuva/sunbird-collection-editor-1/blob/release-4.8.0/docs/CONFIGURATION.md)file of the below [git repository](collection-editor-v2.md#git-repo)
-
 ### Git Repo
 
 {% embed url="https://github.com/Sunbird-Ed/sunbird-collection-editor" %}
 
-#### NPM Repository
+### NPM Repository
 
 {% embed url="https://www.npmjs.com/package/@project-sunbird/sunbird-collection-editor" %}
-
-### Dependencies
-
-#### Internal Dependencies
-
-#### [Content Service](../content-service/)&#x20;
-
-Content service APIs are being used to read the content details using READ/GET API calls.&#x20;
-
-#### External Dependencies
-
-#### [Sunbird Telemetry](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/-MkM7F4oILSpCJPO0YUu/)
-
-Sunbird Telemetry is a specification to instrument all the key events. Using this specification reference applications & services will generate telemetry events.
-
-#### [Sunbird inQuiry](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/)
-
-Sunbird inQuiry is used to play the questionnaire while playing the content. This is especially used to play Interactive-video content.

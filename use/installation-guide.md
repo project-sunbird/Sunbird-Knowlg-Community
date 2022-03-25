@@ -2,9 +2,15 @@
 
 ### Local Installation
 
-#### Editors
+### Editors
 
+#### How to setup
 
+Please refer to the [README](https://github.com/Sunbird-Ed/sunbird-collection-editor/tree/release-4.8.0#readme).md of the below [git repository](installation-guide.md#git-repo)
+
+#### Configuration
+
+Please refer to the [config section of README.md ](https://github.com/vaibhavbhuva/sunbird-collection-editor-1/blob/release-4.8.0/docs/CONFIGURATION.md)file of the [git repository](installation-guide.md#git-repo)
 
 ### Players
 

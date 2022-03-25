@@ -6,7 +6,7 @@ description: TDB
 
 Collection Editor which allows user to create a group of contents. It can be (ECML, Pdf, HTML, H5P, Epub, Youtube, Mp4/Webm)
 
-![](<../../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 ### Tech Stack
 

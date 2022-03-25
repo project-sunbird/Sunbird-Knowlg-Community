@@ -1,16 +1,12 @@
 # PDF Player
 
-The [Common Player](../player/common-player/) is packaged with all the asset types. So It became bulky & little slow while launching the asset. Hence the PDF player is spilt as an independent player to improve the performance and load time while launching.
+The [Common Player](../../player/common-player/) is packaged with all the asset types. So It became bulky & little slow while launching the asset. Hence the PDF player is spilt as an independent player to improve the performance and load time while launching.
 
 
 
 ### Usecase:&#x20;
 
 [https://project-sunbird.atlassian.net/wiki/spaces/CON/pages/1586561053/PDF+Player+V2](https://project-sunbird.atlassian.net/wiki/spaces/CON/pages/1586561053/PDF+Player+V2)
-
-### Architecture
-
-[https://github.com/project-sunbird/sunbird-pdf-player/blob/release-4.8.0/Architecture.md](https://github.com/project-sunbird/sunbird-pdf-player/blob/release-4.8.0/Architecture.md)
 
 
 

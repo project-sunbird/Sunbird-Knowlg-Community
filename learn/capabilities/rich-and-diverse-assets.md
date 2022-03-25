@@ -42,25 +42,8 @@ Analogous example from the real-world - A _**Shoe, Sandal, Flip-flops**_ each on
 Below assets are currently defined in Sunbird. You can define new assets basis your needs.
 
 * Content - This asset allows you to create a variety of content enabling you to deliver rich learning experiences.
-* Collections - click here to know more about this asset type
-* Question(s) - click here to know more about this asset type
-* Question Set - click here to know more about this asset type
+* Collections - click [here](organised-collections.md) to know more about this asset type
+* Question(s) - click [here](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/) to know more about this asset type
+* Question Set - click [here](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/) to know more about this asset type
 * Media Resources - This asset type comprises of lowest level of reusable assets such as images, video, audio files etc
 
-
-
-####
-
-### ~~Asset~~
-
-~~The asset in Knowledge management is the building block that is clustered together to form relevant information to the users. For example: In an office scenario, assets are the equipment like tables, chairs, stationery etc. Similarly, in the Sunbird context, the assets are named as content, collections, events etc.~~&#x20;
-
-{% hint style="info" %}
-~~In most of the following pages about asset management and its component, the assets are defined as content.~~ &#x20;
-{% endhint %}
-
-~~The asset management module consists of the following components:~~&#x20;
-
-* ~~~~[~~Editors~~](../product-and-developer-guide/editors/)~~: The editor provides the tools to create and manage assets using UI on top of APIs.~~
-* ~~~~[~~Players~~](../product-and-developer-guide/player/)~~: The player is used for consuming the asset by the end-user.~~
-* ~~~~[~~Service~~](../product-and-developer-guide/content-service/)~~: The asset service is a set of APIs to manage asset objects (learning assets) and their lifecycle (creation, modification, reviewing, publishing, retrieval)~~

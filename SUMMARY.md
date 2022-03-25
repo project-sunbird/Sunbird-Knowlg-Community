@@ -17,7 +17,6 @@
     * [How to setup](learn/capabilities/dialcode/how-to-setup.md)
     * [FAQs](learn/capabilities/dialcode/faqs.md)
   * [Observability](learn/capabilities/observability.md)
-* [Use Cases](learn/use-cases.md)
 * [Technical Architecture](learn/technical-architecture.md)
 * [Product & Developer Guide](learn/product-and-developer-guide/README.md)
   * [Player](learn/product-and-developer-guide/player/README.md)
@@ -56,8 +55,11 @@
     * [Category](learn/product-and-developer-guide/asset-search-service/category/README.md)
       * [APIs](learn/product-and-developer-guide/asset-search-service/category/apis.md)
       * [FAQs](learn/product-and-developer-guide/taxonomy-and-tagging/category/faqs.md)
-* [Try it out](learn/try-it-out.md)
 * [Product Roadmap](learn/product-roadmap.md)
+
+## ENGAGE
+
+* [Discuss](https://github.com/project-sunbird/sunbird-community/discussions)
 
 ## USE
 
@@ -68,7 +70,3 @@
   * [Editors](use/installation-guide/editors.md)
 * [Release notes](use/release-notes.md)
 * [USE](use/use.md)
-
-## ENGAGE
-
-* [ENGAGE](engage/engage.md)

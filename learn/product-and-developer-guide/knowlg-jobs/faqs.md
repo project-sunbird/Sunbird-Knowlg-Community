@@ -27,7 +27,7 @@ Each term can be associated with another term from another category by using 'as
 
 'Level1-term', 'Level2-term' and 'Level3-term' can be created as map-trees under the framework category. 'Level1-concept’ is created as a term directly associated with framework category'. However, 'Level2-term' and 'Level3-term' are created as terms using the Term create API with reference to Parent.&#x20;
 
-`Example:` { "request": { "term": { "name": "Sample Term", "label": "Sample Term", "description": "Sample Term", "code": "sampleTerm" //needs to be unique within a framework "index": 20 //index of term display "parents": \[ { "identifier": "parentIdentifier" //Term you want to add association to } ] } } }
+`Example: { "request": { "term": { "name": "Sample Term", "label": "Sample Term", "description": "Sample Term", "code": "sampleTerm" //needs to be unique within a framework "index": 20 //index of term display "parents": [ { "identifier": "parentIdentifier" //Term you want to add association to } ] } } }`
 
 
 
@@ -45,6 +45,6 @@ Each term can be associated with another term from another category by using 'as
 
 {% embed url="http://docs.sunbird.org/2.10.0/developer-docs/how-to-guide/how_to_seeddata_in_framework" %}
 
-### How to fetch list of all Frameworks?
+### How to fetch list of all Frameworks in the sunbird instance?
 
 Using [Frameworks List API](http://docs.sunbird.org/latest/apis/framework/#operation/FrameworkV1ListPost), we can fetch all the existing frameworks in the application

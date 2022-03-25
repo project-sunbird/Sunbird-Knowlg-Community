@@ -1,8 +1,8 @@
 ---
 description: >-
   The Framework API resources is basically a supporting data structure which
-  serves as a template  It can be used in places where the structure remains the
-  same but only the usage changes.
+  serves as a template.  It can be used in places where the structure remains
+  the same but only the usage changes.
 ---
 
 # APIs

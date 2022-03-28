@@ -10,7 +10,7 @@ description: >-
 
 1. **Jump to page** \
    This navigate feature will provide the user to jump to any number of page in given pdf content and also able view previous and next page from given page\
-   ![](../../../.gitbook/assets/jumptopage.png)
+   ![](../../../../.gitbook/assets/jumptopage.png)
 
 sample config to enable this next and previous buttons
 
@@ -26,4 +26,4 @@ sample config to enable this next and previous buttons
 
 User can download the pdf content by clicking on the download icon
 
-![](../../../.gitbook/assets/download.png)
+![](../../../../.gitbook/assets/download.png)

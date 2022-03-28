@@ -37,7 +37,7 @@ Based on the **** following configuration HTML content can be rendered.
 
 Please refer to the [config section of README.md ](https://github.com/project-sunbird/sunbird-collection-editor#how-to-configure)file of the below [git repository](https://github.com/project-sunbird/sunbird-collection-editor)
 
-![](../../../.gitbook/assets/htmlcontent.png)
+![](../../../../.gitbook/assets/htmlcontent.png)
 
 **Interact with player**
 

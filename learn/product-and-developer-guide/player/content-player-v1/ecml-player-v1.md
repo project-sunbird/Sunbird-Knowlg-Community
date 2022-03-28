@@ -1,14 +1,14 @@
 ---
-description: >-
-  Epub Player is used to play the epub files and user can navigate and see the
-  location of the epub file page.
+description: ECML Player is used to play the interactive contents
 ---
 
-# Epub Player - v1
+# ECML Player - v1
+
+ECML player is able to play the Ekstep content markup language type contents
 
 **Configuration**
 
-Based on the **** following configuration EPUB content can be rendered.
+Based on the **** following configuration ECML content can be rendered.
 
 ```
 {
@@ -28,11 +28,49 @@ Based on the **** following configuration EPUB content can be rendered.
 }
 ```
 
+**How to create the content**
 
+Please refer [user task workflow](http://docs.sunbird.org/2.2.0/usertaskflow/how\_do\_i\_create\_content/) section for more information
 
-### Features
+![](../../../../.gitbook/assets/create\_content.svg)
 
-1. **Location**\
-   This is a default feature and help user to understand current page number and total number of pages
+**Online play**
 
-![](<../../../.gitbook/assets/epub-location (1).png>)\
+You can play the content online by using the _streamingUrl_
+
+Sample config metadata:&#x20;
+
+```
+"metadata": {
+    "mimeType": "application/vnd.ekstep.ecml-archive",
+    "primaryCategory": "Learning Resource",
+    "identifier": "domain_4083",
+    "mediaType": "content",
+    "streamingUrl": "https://ekstep-public-prod.s3-ap-south-1.amazonaws.com/content/ecml/domain_4083-latest",
+}
+```
+
+**Offline play**
+
+You can play the ECML content offline by passing the _path_ and _isAvailable_ property as a device storage location
+
+Sample config to play ECML content offline
+
+```
+{
+    "identifier": "org.ekstep.customeval",
+    "mimeType": "application/vnd.ekstep.ecml-archive",
+    "contentData": {
+        "appIcon": "fixture-stories/custom_eval/logo.png",
+        "identifier": "org.ekstep.customeval"
+    },
+    "isAvailable": true,
+    "path": "**../custom_eval"
+}
+```
+
+**Asset Loader**
+
+In online play - if the assets takes time to load, it shows the time to load the asset in %
+
+![](<../../../../.gitbook/assets/ezgif.com-gif-maker (3).gif>)

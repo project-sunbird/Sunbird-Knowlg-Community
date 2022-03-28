@@ -101,7 +101,7 @@ Overlay is used to show some extra information on top of the content. This is a 
 
 * **User switcher** _(enableUserSwitcher)_**:** Content player v1 is capable to play the one content for more one user on the same device. The _enableUserSwitcher_ is a overlay property and it used to switch the users while playing the contents
 
-&#x20;     ![](../../../.gitbook/assets/ezgif.com-gif-maker.gif)
+&#x20;     ![](../../../../.gitbook/assets/ezgif.com-gif-maker.gif)
 
 * **Show user **_**** (showUser)_**:** Player provide the capability to hide and show the users while rendering the content.  The show/hide user-switcher functionality. default is true to show user information
 * **Show Overlay** _(showOverlayshowOverlay)_**:** This property enhance the content player capability to show extra information about contents. Default is true.
@@ -127,13 +127,13 @@ User can customise the loading screen of the content player using below configur
 
 This navigate feature will provide the user to view previous and next page from given page**.** [PDF player](pdf-player-v1.md) only provides to jump to any specific location capability.&#x20;
 
-![](../../../.gitbook/assets/epub-navigation.png)
+![](../../../../.gitbook/assets/epub-navigation.png)
 
 ### **Side menu**
 
 This is one of the property of [overlay config](./#overlay). This allows user to perform the following actions based input config provided.
 
-![](<../../../.gitbook/assets/ezgif.com-gif-maker (2) (1).gif>)
+![](<../../../../.gitbook/assets/ezgif.com-gif-maker (2) (1).gif>)
 
 * **Replay**: Its a default feature of the side menu, by clicking on the replay user can reload the content
 * **Switch user:** Side menu enables user to switch the current user by clicking on this side menu option. refer [user switcher config](./#sample-overlay-config) to configure this button.
@@ -195,7 +195,7 @@ Sample config to show end page
 }
 ```
 
-![](../../../.gitbook/assets/endpage.png)
+![](../../../../.gitbook/assets/endpage.png)
 
 ## Configurations
 

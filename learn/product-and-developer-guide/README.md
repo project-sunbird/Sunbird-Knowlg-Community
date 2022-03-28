@@ -6,6 +6,8 @@ Reference: [https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Gfj3bNBRsL02Z3D935b
 
 ## Feature specific components
 
+on this page, we are detailing the list of [capabilities](../capabilities/) mapping to the components. How each capability can be achieved or integrated with the components.
+
 * [Rich & Diverse Assets](./#rich-and-diverse-assets)
 * [Organized Collections ](./#organized-collections)
 * [Asset Lifecycle Management ](./#asset-lifecycle-management)
@@ -33,33 +35,26 @@ Reference: [https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Gfj3bNBRsL02Z3D935b
 
 ### Asset Lifecycle Management
 
-| Component | Description |
-| --------- | ----------- |
-|           |             |
-|           |             |
-|           |             |
+| Component                           | Description                                                                                                                                                                                                          |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Content-service](content-service/) | <p>Content service API's helps to curate the assets created by creators(using asset creation tools - <a href="editors/">editors</a>). <br><br>The lifecycle to curate the content<br>Draft -> Review -> Publish </p> |
 
 ### Powerful Discovery
 
-| Component | Description |
-| --------- | ----------- |
-|           |             |
-|           |             |
-|           |             |
+| Component                                        | Description                                                                                                                     |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| [Asset seach service](assets-search-service/)    | This is a service offered for ease of discovery of assets. This service will expose the API's only to read & filter the assets. |
+| Dependency - [Content-service](content-service/) | The data in the content-service will be synced to the asset-search service for ease of discovery.                               |
 
 ### Phygital Discovery
 
-| Component | Description |
-| --------- | ----------- |
-|           |             |
-|           |             |
-|           |             |
+| Component    | Description                                                                                                                                                                                |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Dial service | This service offers to generate the  DIAL code & it can be linked to any asset. It also offers physical/digital discovery of the asset using a QR code image generated for each DIAL code. |
 
 ### Observability
 
-| Component | Description |
-| --------- | ----------- |
-|           |             |
-|           |             |
-|           |             |
+| Component | Description                                                                                                                                                                                                        |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Telemetry | All the services & tools of the Sunbird Knowlg generate wide list of telemetry events. These telemetry events help to analyze the user actions. Users can build their own reports as per their needs/requirements. |
 

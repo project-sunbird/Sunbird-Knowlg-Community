@@ -39,7 +39,7 @@ Here’s the configuration:
 ```
 
 \*\*\*\*\
-![](<../../../.gitbook/assets/image (5).png>)\
+![](<../../../.gitbook/assets/image (3).png>)\
 \*\*\*\*\
 **- review**\
 \*\*\*\*It’s similar to read mode only. but here users can perform some actions such as publish, reject.\

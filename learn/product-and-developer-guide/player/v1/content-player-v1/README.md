@@ -37,10 +37,10 @@ mimetypes: [
 | Content Type                                                                                                                                                                | MIME Type                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ECML](ecml-player-v1.md)                                                                                                                                                   | [application/vnd.ekstep.ecml-archive](ecml-player-v1.md)                                                                                                                                |
-| [HTML](../player/content-player-v1/html-h5p-player-v1.md)                                                                                                                   | [application/vnd.ekstep.html-archive](../player/content-player-v1/html-h5p-player-v1.md)                                                                                                |
+| [HTML](html-h5p-player-v1.md)                                                                                                                                               | [application/vnd.ekstep.html-archive](html-h5p-player-v1.md)                                                                                                                            |
 | [PDF](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/aanfWbeVT74C5lXDPde3/\~/changes/uO8tokGf3RxCXA1P4fnr/learn/product-and-developer-guide/content-player-v1/pdf-player) | [application/pdf](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/aanfWbeVT74C5lXDPde3/\~/changes/uO8tokGf3RxCXA1P4fnr/learn/product-and-developer-guide/content-player-v1/pdf-player) |
-| [Epub](../player/content-player-v1/epub-player-v1.md)                                                                                                                       | [application/epub](../player/content-player-v1/epub-player-v1.md)                                                                                                                       |
-| [H5P](../player/content-player-v1/html-h5p-player-v1.md)                                                                                                                    | [application/vnd.ekstep.h5p-archive](../player/content-player-v1/html-h5p-player-v1.md)                                                                                                 |
+| [Epub](epub-player-v1.md)                                                                                                                                                   | [application/epub](epub-player-v1.md)                                                                                                                                                   |
+| [H5P](html-h5p-player-v1.md)                                                                                                                                                | [application/vnd.ekstep.h5p-archive](html-h5p-player-v1.md)                                                                                                                             |
 | YOUTUBE                                                                                                                                                                     | video/x-youtube                                                                                                                                                                         |
 | WEBM                                                                                                                                                                        | video/Webm                                                                                                                                                                              |
 | MP4                                                                                                                                                                         | video/mp4                                                                                                                                                                               |
@@ -101,7 +101,7 @@ Overlay is used to show some extra information on top of the content. This is a 
 
 * **User switcher** _(enableUserSwitcher)_**:** Content player v1 is capable to play the one content for more one user on the same device. The _enableUserSwitcher_ is a overlay property and it used to switch the users while playing the contents
 
-![](../../../.gitbook/assets/ezgif.com-gif-maker.gif)
+![](../../../../../.gitbook/assets/ezgif.com-gif-maker.gif)
 
 * **Show user \_** (showUser)\_**:** Player provide the capability to hide and show the users while rendering the content. The show/hide user-switcher functionality. default is true to show user information
 * **Show Overlay** _(showOverlayshowOverlay)_**:** This property enhance the content player capability to show extra information about contents. Default is true.
@@ -125,15 +125,15 @@ User can customise the loading screen of the content player using below configur
 
 ### **Navigate**
 
-This navigate feature will provide the user to view previous and next page from given page\*\*.\*\* [PDF player](../player/content-player-v1/pdf-player-v1.md) only provides to jump to any specific location capability.
+This navigate feature will provide the user to view previous and next page from given page\*\*.\*\* [PDF player](pdf-player-v1.md) only provides to jump to any specific location capability.
 
-![](../../../.gitbook/assets/epub-navigation.png)
+![](../../../../../.gitbook/assets/epub-navigation.png)
 
 ### **Side menu**
 
 This is one of the property of [overlay config](./#overlay). This allows user to perform the following actions based input config provided.
 
-![](<../../../.gitbook/assets/ezgif.com-gif-maker (2) (1).gif>)
+![](<../../../../../.gitbook/assets/ezgif.com-gif-maker (2) (1).gif>)
 
 * **Replay**: Its a default feature of the side menu, by clicking on the replay user can reload the content
 * **Switch user:** Side menu enables user to switch the current user by clicking on this side menu option. refer [user switcher config](./#sample-overlay-config) to configure this button.
@@ -163,7 +163,7 @@ Sample config to show end page
 
 * **Previous:** In a collection play - the previous button will indicate the previous content of the current content on the current content end page.
 
-![](../../../.gitbook/assets/endpage.png)
+![](../../../../../.gitbook/assets/endpage.png)
 
 * **Score:** This will indicate the user assessment score on the end page
 * **Time:** This will indicate - how much time user spend on the content.
@@ -205,7 +205,7 @@ Please refer to the [config section of README.md ](https://github.com/project-su
 
 Please refer to [FAQs of sunbird](http://docs.sunbird.org/latest/faqs/) documents&#x20;
 
-ans: Please refer this link to [setup the content player](../player/common-player/how-to-setup.md) locally.
+ans: Please refer this link to [setup the content player](../common-player/how-to-setup.md) locally.
 
 2\. How to configure content player v1
 

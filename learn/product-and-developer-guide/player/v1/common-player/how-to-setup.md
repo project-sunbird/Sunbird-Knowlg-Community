@@ -29,11 +29,9 @@ The common player(content-player) is customizable and configurable before launch
 
 ### Internal Dependencies
 
-#### [API Service](../../content-service/)&#x20;
+#### [API Service](../../../content-service/)
 
-The APIs service is used to read the content details using READ/GET API calls.&#x20;
-
-
+The APIs service is used to read the content details using READ/GET API calls.
 
 ### External Dependencies
 
@@ -41,9 +39,6 @@ The APIs service is used to read the content details using READ/GET API calls.&#
 
 Sunbird Telemetry is a specification to instrument all the key events. Using this specification reference applications & services will generate telemetry events.
 
-
-
 #### [Sunbird inQuiry](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/)
 
 Sunbird inQuiry is used to play the questionnnaire while playing the content. This is especially used to play Interactive-video content.
-

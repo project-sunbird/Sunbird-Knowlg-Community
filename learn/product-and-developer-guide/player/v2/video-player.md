@@ -1,8 +1,6 @@
 # Video Player
 
-The [Common Player](../player/common-player/) is packaged with all the asset types. Gradually it was spilt in independent players, **video player** and **YouTube player**, to enable quick launch, this improved the performance and load time.
-
-
+The [Common Player](../v1/common-player/) is packaged with all the asset types. Gradually it was spilt in independent players, **video player** and **YouTube player**, to enable quick launch, this improved the performance and load time.
 
 ### Architecture
 
@@ -10,7 +8,7 @@ The [Common Player](../player/common-player/) is packaged with all the asset typ
 
 ### Tech Stack
 
-1. Angular&#x20;
+1. Angular
 2. Typescript
 3. Javascript
 4. SCSS
@@ -18,7 +16,7 @@ The [Common Player](../player/common-player/) is packaged with all the asset typ
 
 ### How to Use
 
-&#x20;[Angular Library](https://github.com/project-sunbird/sunbird-video-player/tree/release-4.8.0#getting-started)&#x20;
+[Angular Library](https://github.com/project-sunbird/sunbird-video-player/tree/release-4.8.0#getting-started)
 
 [Web Component](https://github.com/project-sunbird/sunbird-video-player/tree/release-4.8.0#use-as-web-components)
 

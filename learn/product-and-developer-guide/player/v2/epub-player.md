@@ -1,8 +1,6 @@
 # Epub Player
 
-The [Common Player](../player/common-player/) is package with all the content types. So It became bulky & little slow while lauching the content. Hence we split the PDF player as an independent player to improve the performance & load time while launching the content.
-
-
+The [Common Player](../v1/common-player/) is package with all the content types. So It became bulky & little slow while lauching the content. Hence we split the PDF player as an independent player to improve the performance & load time while launching the content.
 
 ### Architecture
 
@@ -14,7 +12,7 @@ The [Common Player](../player/common-player/) is package with all the content ty
 
 ### Tech Stack
 
-1. Angular&#x20;
+1. Angular
 2. Typescript
 3. Javascript
 4. SCSS
@@ -22,7 +20,7 @@ The [Common Player](../player/common-player/) is package with all the content ty
 
 ### How to Use
 
-&#x20;[Angular Library](https://github.com/project-sunbird/sunbird-epub-player/tree/release-4.8.0#getting-started)&#x20;
+[Angular Library](https://github.com/project-sunbird/sunbird-epub-player/tree/release-4.8.0#getting-started)
 
 [Web Component](https://github.com/project-sunbird/sunbird-epub-player/tree/release-4.8.0#use-as-web-components)
 

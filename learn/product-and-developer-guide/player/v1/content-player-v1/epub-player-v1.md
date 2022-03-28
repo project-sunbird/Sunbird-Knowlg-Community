@@ -1,32 +1,14 @@
 ---
-description: ECML Player is used to play the interactive contents
+description: >-
+  Epub Player is used to play the epub files and user can navigate and see the
+  location of the epub file page.
 ---
 
-# ECML Player - v1
-
-## Architecture
-
-### ECML
-
-ECML is a short form of Ekstep content markup language. The content player v1 is capable to play the ECML type contents.
-
-### **Workflow**
-
-Please refer [user task workflow](http://docs.sunbird.org/2.2.0/usertaskflow/how\_do\_i\_create\_content/) section for more information
-
-Based on the **** following configuration ECML content can be rendered.
-
-![](../../../.gitbook/assets/create\_content.svg)
-
-## **Features**
-
-### **ECML renderer**
-
-Content player v1 requires following config to play the ECML contents
+# Epub Player - v1
 
 **Configuration**
 
-Based on the **** following configuration ECML content can be rendered.
+Based on the \*\*\*\* following configuration EPUB content can be rendered.
 
 ```
 {
@@ -46,94 +28,9 @@ Based on the **** following configuration ECML content can be rendered.
 }
 ```
 
-**Online play**
+### Features
 
-You can play the content online by using the _streamingUrl_
+1. **Location**\
+   This is a default feature and help user to understand current page number and total number of pages
 
-Sample config metadata:&#x20;
-
-```
-"metadata": {
-    "mimeType": "application/vnd.ekstep.ecml-archive",
-    "primaryCategory": "Learning Resource",
-    "identifier": "domain_4083",
-    "mediaType": "content",
-    "streamingUrl": "https://ekstep-public-prod.s3-ap-south-1.amazonaws.com/content/ecml/domain_4083-latest",
-}
-```
-
-**Offline play**
-
-You can play the ECML content offline by passing the _path_ and _isAvailable_ property as a device storage location
-
-Sample config to play ECML content offline
-
-```
-{
-    "identifier": "org.ekstep.customeval",
-    "mimeType": "application/vnd.ekstep.ecml-archive",
-    "contentData": {
-        "appIcon": "fixture-stories/custom_eval/logo.png",
-        "identifier": "org.ekstep.customeval"
-    },
-    "isAvailable": true,
-    "path": "**../custom_eval"
-}
-```
-
-### Assessments
-
-Content player v1 is capable to play the assessment content which is written in Ekstep content markup language
-
-Content editor is responsible to creation of assessment content. Following plugins are plays the role to play the assessments in content player &#x20;
-
-![](<../../../.gitbook/assets/ezgif.com-gif-maker (3).gif>)
-
-![](../../../.gitbook/assets/questionset.png)
-
-### **Assessment** Plugins
-
-* Question unit plugin: This plugin is responsible to load the different types of questions and templates&#x20;
-* Question set: Question set plugin is responsible to create and save the different types of questions set and questions
-* Mcq plugin: Using mcq plugin, you can create and rendered the multiple choice questions
-* FTP plugin: FTB plugins creates and loads fill in the blanks types questions
-* MTF plugin: Match the following type questions can be created in this plugin
-* Reorder plugin: By using this plugin, you can create and render the reordering type questions
-* Question bank: Question bank plugin is responsible to create and load the questions.
-* Preview plugin: Preview plugin is taking care of rendering the different types of questions in question bank view - where user can see the immediate preview after creating the questions&#x20;
-
-![](<../../../.gitbook/assets/question set bank.png>)
-
-### Assessment config
-
-Question set plugin is responsible to set and renderer the questions and this can be configure by using the following configuration
-
-#### Question Minimum Font Size
-
-What should be the the minimum font size can be render in content player v1 defines by the _questionMinFontSize_ property.&#x20;
-
-```
-{
-    questionMinFontSize: '1.285em'
-}
-```
-
-### Show submit
-
-Show submit property present the show button on end page, which will show after attempting the assessment. This is a configurable property of [overlay config](./#overlay) of content player v1.
-
-![](<../../../.gitbook/assets/showsubmit (1).png>)
-
-Sample config to show submit button.
-
-```
-overlay: {
-    showSubmit: false
-}
-```
-
-### **Asset Loader**
-
-In online play - if the assets takes time to load, it shows the time to load the asset in %
-
-![](<../../../.gitbook/assets/ezgif.com-gif-maker (3).gif>)
+![](<../../../../../.gitbook/assets/epub-location (1).png>)\\

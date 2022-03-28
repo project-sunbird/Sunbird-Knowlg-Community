@@ -76,6 +76,7 @@
       * [APIs](learn/product-and-developer-guide/taxonomy-and-tagging/object-category-service/apis.md)
       * [FAQs](learn/product-and-developer-guide/taxonomy-and-tagging/object-category-service/faqs.md)
   * [Knowlg Jobs](learn/product-and-developer-guide/knowlg-jobs.md)
+  * [Other](learn/product-and-developer-guide/other.md)
 * [Product Roadmap](learn/product-roadmap.md)
 
 ## ENGAGE

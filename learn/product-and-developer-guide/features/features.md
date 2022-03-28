@@ -8,15 +8,15 @@ description: Here are the list of features.
 
 <summary><mark style="color:blue;"><strong>Mode</strong></mark></summary>
 
-The editor can be set into a read-only mode simply by changing the value of the Config#mode property. \
+The editor can be set into a read-only mode simply by changing the value of the Config#mode property.\
 \
 Following are types of mode:\
-1\.  read\
+1\. read\
 2\. edit\
 3\. review\
 \
 **- read**\
-****The read mode is a feature within the editor that allows users to see the editor. But you cannot edit it.\
+\*\*\*\*The read mode is a feature within the editor that allows users to see the editor. But you cannot edit it.\
 Here’s the configuration:
 
 ```
@@ -25,11 +25,11 @@ Here’s the configuration:
 }
 ```
 
-![](<../../../../.gitbook/assets/NIT (6).png>)\
+![](<../../../.gitbook/assets/NIT (6).png>)\
 In the above screenshot, you can see all the contents but can not perform any actions on the editor.\
-****\
+\*\*\*\*\
 **- edit**\
-****All the fields will be enabled to edit for the collection creator.\
+\*\*\*\*All the fields will be enabled to edit for the collection creator.\
 Here’s the configuration:
 
 ```
@@ -38,11 +38,11 @@ Here’s the configuration:
 }
 ```
 
-****\
-****![](<../../../../.gitbook/assets/image (3).png>)****\
-****\
+\*\*\*\*\
+![](<../../../.gitbook/assets/image (5).png>)\
+\*\*\*\*\
 **- review**\
-****It’s similar to read mode only. but here users can perform some actions such as publish, reject. \
+\*\*\*\*It’s similar to read mode only. but here users can perform some actions such as publish, reject.\
 Here’s the configuration:
 
 ```
@@ -51,9 +51,9 @@ Here’s the configuration:
 }
 ```
 
-&#x20; ![](../../../../.gitbook/assets/NIT\_and\_workspace-content-create.png)\
+![](../../../.gitbook/assets/NIT\_and\_workspace-content-create.png)\
 \
-But here you define which fields of a form can be editable for a specific `mode` with limited editing rights, leaving the rest of the fields non-editable to them. \
+But here you define which fields of a form can be editable for a specific `mode` with limited editing rights, leaving the rest of the fields non-editable to them.\
 \
 \- **editableFields**\
 Its object for different types of mode based on which some fields get enabled.\
@@ -68,7 +68,7 @@ Here is the sample configuration for review mode:
 }
 ```
 
-![](../../../../.gitbook/assets/NIT.png)\
+![](../../../.gitbook/assets/NIT.png)\
 (Note: In the above case `editableFields.review: ['title']` so only the instruction field is enabled for reviewer while reviewing the collection)
 
 </details>
@@ -92,7 +92,7 @@ Here is the configuration:
 }
 ```
 
-![](<../../../../.gitbook/assets/NIT (1).png>)
+![](<../../../.gitbook/assets/NIT (1).png>)
 
 </details>
 
@@ -151,8 +151,7 @@ Here is the configuration:
 ```
 
 _**(Note: If you add more depth you need to add more levels in the hierarchy.)**_\
-![](<../../../../.gitbook/assets/NIT (4).png>)\
-
+![](<../../../.gitbook/assets/NIT (4).png>)\\
 
 </details>
 
@@ -169,7 +168,7 @@ Here is the configuration:
 }
 ```
 
-![](<../../../../.gitbook/assets/NIT (3).png>)
+![](<../../../.gitbook/assets/NIT (3).png>)
 
 </details>
 
@@ -188,8 +187,8 @@ Here is the configuration:
 }
 ```
 
-Suppose if `maxContentsLimit` is set to **“8“** then while trying to add new content from `Add from library`  it will give an error maxlimit message as:\
-****![](../../../../.gitbook/assets/SunbirdCollectionEditor\_and\_New\_Tab.png)
+Suppose if `maxContentsLimit` is set to **“8“** then while trying to add new content from `Add from library` it will give an error maxlimit message as:\
+\*\*\*\*![](../../../.gitbook/assets/SunbirdCollectionEditor\_and\_New\_Tab.png)
 
 </details>
 
@@ -206,7 +205,7 @@ Here is the configuration:
 }
 ```
 
-![](<../../../../.gitbook/assets/NIT\_and\_New\_Tab (1).png>)
+![](<../../../.gitbook/assets/NIT\_and\_New\_Tab (1).png>)
 
 </details>
 
@@ -215,22 +214,21 @@ Here is the configuration:
 <summary><mark style="color:blue;">Generate/Link <strong>DIALCodes</strong></mark></summary>
 
 When "generateDIALCodes" is set to `yes` it enables the add dialcode option in the collection editor. With which the creator can generate and link to the same collection.\
-`generateDIALCodes: yes/no`&#x20;
+`generateDIALCodes: yes/no`
 
-![](<../../../../.gitbook/assets/NIT (8).png>)\
+![](<../../../.gitbook/assets/NIT (8).png>)\
 \
-Following are the validations for generateDIALCodes**:**\
-&#x20;**** \
-**1.** **dialcodeMaxLength**  \
-&#x20;The `dialcodeMaxLength` defines the maximum number of dial-codes to be generated. This value must be less than or equal to the value of the `dialcodeMaxLength`\
-``otherwise, it'll throw an error message as:\
-``![](../../../../.gitbook/assets/NIT\_and\_New\_Tab.png)\
+Following are the validations for generateDIALCodes\*\*:\*\*\
+\*\*\*\*\
+**1.** **dialcodeMaxLength**\
+The `dialcodeMaxLength` defines the maximum number of dial-codes to be generated. This value must be less than or equal to the value of the `dialcodeMaxLength`\
+`otherwise, it'll throw an error message as:\` ![](../../../.gitbook/assets/NIT\_and\_New\_Tab.png)\
 The default value is `250`\
-&#x20;\
+\
 **2**.**dialcodeMinLength**\
-****The `dialcodeMinLength`  defines the minimum number of dial-codes to be generated. This value must be greater than or equal to the value of the `dialcodeMinLength`\
-``otherwise, it'll throw an error message as:\
-![](<../../../../.gitbook/assets/NIT (10).png>)\
+\*\*\*\*The `dialcodeMinLength` defines the minimum number of dial-codes to be generated. This value must be greater than or equal to the value of the `dialcodeMinLength`\
+\`\`otherwise, it'll throw an error message as:\
+![](<../../../.gitbook/assets/NIT (10).png>)\
 The default value is `2`
 
 </details>
@@ -240,7 +238,7 @@ The default value is `2`
 <summary><mark style="color:blue;">icon</mark></summary>
 
 This defines the icon which comes in the node and levels, you can set your own icon here by adding the class of icon, in the root node for `iconClass: 'fa fa-book'` an icon is shown as:\
-![](<../../../../.gitbook/assets/NIT (11).png>)
+![](<../../../.gitbook/assets/NIT (11).png>)
 
 </details>
 
@@ -299,6 +297,6 @@ config: {
   }
 ```
 
-![](<../../../../.gitbook/assets/NIT (7).png>)![](<../../../../.gitbook/assets/NIT (9).png>)![](../../../../.gitbook/assets/NIT\_and\_data\_ts\_—\_sunbird-collection-editor-1.png)![](<../../../../.gitbook/assets/NIT (2).png>)
+![](<../../../.gitbook/assets/NIT (7).png>)![](<../../../.gitbook/assets/NIT (9).png>)![](../../../.gitbook/assets/NIT\_and\_data\_ts\_—\_sunbird-collection-editor-1.png)![](<../../../.gitbook/assets/NIT (2).png>)
 
 </details>

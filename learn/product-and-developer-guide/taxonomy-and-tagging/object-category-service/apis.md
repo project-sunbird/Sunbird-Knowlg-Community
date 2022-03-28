@@ -8,5 +8,5 @@ description: >-
 
 [Object Category APIs](http://docs.sunbird.org/latest/apis/objectcategory/)
 
-* Object Category Create, Read and Update
-* Object Category Defintion Create, Read and Update&#x20;
+* Object Category [Create](http://docs.sunbird.org/latest/apis/objectcategory/#operation/Create%20Object%20Category), [Read](http://docs.sunbird.org/latest/apis/objectcategory/#operation/Read%20ObjectCategory) and [Update](http://docs.sunbird.org/latest/apis/objectcategory/#operation/Update%20Object%20Category)
+* Object Category Defintion [Create](http://docs.sunbird.org/latest/apis/objectcategory/#operation/Create%20Object%20Category%20Definition), [Read](http://docs.sunbird.org/latest/apis/objectcategory/#operation/Read%20Object%20Category%20Definition) and [Update](http://docs.sunbird.org/latest/apis/objectcategory/#operation/Update%20Object%20Category%20Definition)

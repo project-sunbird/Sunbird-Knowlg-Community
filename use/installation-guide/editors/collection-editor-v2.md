@@ -25,7 +25,7 @@ For more information, please refer to the [config section of the README.md ](htt
 
 Content service APIs are being used to read the content details using READ/GET API calls.&#x20;
 
-#### <mark style="color:blue;"></mark>[<mark style="color:blue;">Content Players</mark>](../players.md)
+#### <mark style="color:blue;"></mark>[<mark style="color:blue;">Content Players</mark>](../players/)
 
 The content players are used to playing the different types of content such as PDF, VIDEO, EPUB, etc...
 

@@ -14,7 +14,7 @@ ECML is a short form of Ekstep content markup language. The content player v1 is
 
 Please refer [user task workflow](http://docs.sunbird.org/2.2.0/usertaskflow/how\_do\_i\_create\_content/) section for more information
 
-Based on the **** following configuration ECML content can be rendered.
+Based on the \*\*\*\* following configuration ECML content can be rendered.
 
 ![](../../../../../.gitbook/assets/create\_content.svg)
 
@@ -26,7 +26,7 @@ Content player v1 requires following config to play the ECML contents
 
 **Configuration**
 
-Based on the **** following configuration ECML content can be rendered.
+Based on the \*\*\*\* following configuration ECML content can be rendered.
 
 ```
 {
@@ -50,7 +50,7 @@ Based on the **** following configuration ECML content can be rendered.
 
 You can play the content online by using the _streamingUrl_
 
-Sample config metadata:&#x20;
+Sample config metadata:
 
 ```
 "metadata": {
@@ -85,7 +85,7 @@ Sample config to play ECML content offline
 
 Content player v1 is capable to play the assessment content which is written in Ekstep content markup language
 
-Content editor is responsible to creation of assessment content. Following plugins are plays the role to play the assessments in content player &#x20;
+Content editor is responsible to creation of assessment content. Following plugins are plays the role to play the assessments in content player
 
 ![](<../../../../../.gitbook/assets/ezgif.com-gif-maker (3).gif>)
 
@@ -93,14 +93,14 @@ Content editor is responsible to creation of assessment content. Following plugi
 
 ### **Assessment** Plugins
 
-* Question unit plugin: This plugin is responsible to load the different types of questions and templates&#x20;
+* Question unit plugin: This plugin is responsible to load the different types of questions and templates
 * Question set: Question set plugin is responsible to create and save the different types of questions set and questions
 * Mcq plugin: Using mcq plugin, you can create and rendered the multiple choice questions
 * FTP plugin: FTB plugins creates and loads fill in the blanks types questions
 * MTF plugin: Match the following type questions can be created in this plugin
 * Reorder plugin: By using this plugin, you can create and render the reordering type questions
 * Question bank: Question bank plugin is responsible to create and load the questions.
-* Preview plugin: Preview plugin is taking care of rendering the different types of questions in question bank view - where user can see the immediate preview after creating the questions&#x20;
+* Preview plugin: Preview plugin is taking care of rendering the different types of questions in question bank view - where user can see the immediate preview after creating the questions
 
 ![](<../../../../../.gitbook/assets/question set bank.png>)
 
@@ -110,7 +110,7 @@ Question set plugin is responsible to set and renderer the questions and this ca
 
 #### Question Minimum Font Size
 
-What should be the the minimum font size can be render in content player v1 defines by the _questionMinFontSize_ property.&#x20;
+What should be the the minimum font size can be render in content player v1 defines by the _questionMinFontSize_ property.
 
 ```
 {
@@ -122,7 +122,7 @@ What should be the the minimum font size can be render in content player v1 defi
 
 Show submit property present the show button on end page, which will show after attempting the assessment. This is a configurable property of [overlay config](./#overlay) of content player v1.
 
-![](<../../../../../.gitbook/assets/showsubmit (1).png>)
+![](../../../../../.gitbook/assets/showsubmit.png)
 
 Sample config to show submit button.
 

@@ -39,7 +39,7 @@ Here’s the configuration:
 ```
 
 \*\*\*\*\
-![](<../../../../.gitbook/assets/image (3).png>)\
+![](../../../../.gitbook/assets/image.png)\
 \*\*\*\*\
 **- review**\
 \*\*\*\*It’s similar to read mode only. but here users can perform some actions such as publish, reject.\
@@ -68,7 +68,7 @@ Here is the sample configuration for review mode:
 }
 ```
 
-![](../../../../.gitbook/assets/NIT.png)\
+![](<../../../../.gitbook/assets/NIT (12).png>)\
 (Note: In the above case `editableFields.review: ['title']` so only the instruction field is enabled for reviewer while reviewing the collection)
 
 </details>
@@ -297,6 +297,6 @@ config: {
   }
 ```
 
-![](<../../../../.gitbook/assets/NIT (7).png>)![](<../../../../.gitbook/assets/NIT (9).png>)![](../../../../.gitbook/assets/NIT\_and\_data\_ts\_—\_sunbird-collection-editor-1.png)![](<../../../../.gitbook/assets/NIT (2).png>)
+![](<../../../../.gitbook/assets/NIT (7).png>)![](<../../../../.gitbook/assets/NIT (5).png>)![](../../../../.gitbook/assets/NIT\_and\_data\_ts\_—\_sunbird-collection-editor-1.png)![](<../../../../.gitbook/assets/NIT (2).png>)
 
 </details>

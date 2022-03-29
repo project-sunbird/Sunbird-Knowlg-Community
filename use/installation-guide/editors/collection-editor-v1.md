@@ -2,7 +2,7 @@
 
 ### How to setup
 
-Please refer to the[ README.md](https://github.com/project-sunbird/sunbird-collection-editor#how-to-setup-sunbird-collection-editor-in-local) of the below [git repository](https://github.com/project-sunbird/sunbird-collection-editor)
+Please refer to the[ README.md](https://github.com/project-sunbird/sunbird-collection-editor#how-to-setup-sunbird-collection-editor-in-local) of the [git repository](https://github.com/project-sunbird/sunbird-collection-editor)
 
 ### How to content Plugins launch
 
@@ -10,4 +10,4 @@ Please refer to the[ README.md](https://github.com/project-sunbird/sunbird-colle
 
 ### Configuration
 
-Please refer to the [config section of README.md ](https://github.com/project-sunbird/sunbird-collection-editor#how-to-configure)file of the below [git repository](https://github.com/project-sunbird/sunbird-collection-editor)
+Please refer to the [config section of the README.md ](https://github.com/project-sunbird/sunbird-collection-editor#how-to-configure)file of the [git repository](https://github.com/project-sunbird/sunbird-collection-editor)

@@ -17,7 +17,7 @@ To overcome the above challenges the new collection-editor version-2 built with 
   **organizing** images
 * [x] Supported multi types of content such as video, pdf, epub, etc…
 * [x] Ability to organize your assets in a multi-level hierarchy
-* [x] Ability to link/delete any assets at any level of hierarchy
+* [x] Ability to link/delete any assets at any level of the hierarchy
 * [x] Ability to generate and link DIALcode to any level of hierarchy
 
 ## :stars:Tech Stack
@@ -25,6 +25,12 @@ To overcome the above challenges the new collection-editor version-2 built with 
 * **Angular v9**
 * **HTML, SCSS**
 * **Typescript**
+
+## :stars:Installation guide
+
+{% content-ref url="../../../../use/installation-guide/editors/collection-editor-v2.md" %}
+[collection-editor-v2.md](../../../../use/installation-guide/editors/collection-editor-v2.md)
+{% endcontent-ref %}
 
 ## :stars:Git Repo
 

@@ -1,50 +1,18 @@
 # Features
 
-###
+1. **Zoom**\
+   This zoom feature has the ability to view given pdf content in a much larger and smaller view.![](../../../../../.gitbook/assets/psdPlayerV2zoom.png)\
 
-### Features
+2. **Rotate**\
+   This rotate feature has the ability to rotate given pdf content based on some angle(as of now 90 degree rotation)\
+   ![](../../../../../.gitbook/assets/pdfPlayerV2Rotate1.png)\
+   \
 
-1.  **Zoom**\
-    This zoom feature has the ability to view given pdf content in a much larger and smaller view.![](../../../../../.gitbook/assets/psdPlayerV2zoom.png)\
-    \
-    sample config to enable is
-
-    ```
-    "config": {
-       "toolBar": { 
-        "showZoomButtons": true, // show/hide zoom button in toolbar. default value is false 
-       }
-    }
-    ```
-2.  **Rotate**\
-    This rotate feature has the ability to rotate given pdf content based on some angle(as of now 90 degree rotation)\
-    ![](../../../../../.gitbook/assets/pdfPlayerV2Rotate1.png)\
-    \
-    sample config to enable is
-
-    ```
-    "config": {  
-    "toolBar": { 
-      "showRotateButton": true // show/hide rotate button in toolbar. default value is false
-    }
-    }
-    ```
-
-    }
 3.  **Navigate**\
     This navigate feature will provide the user to jump to any number of page in given pdf content and also able view previous and next page from given page\
     ![](<../../../../../.gitbook/assets/pdfPlayerV2Navigate1 (1).png>)\\
 
-    sample config to enable is
 
-    ```
-    "config": {  
-      "toolBar": { 
-           "showPagesButton": true, // show/hide pages button in toolbar. default value is false
-           "showPagingButtons": true, // show/hide paging button in toolbar. default value is false
-      }
-    }
-    ```
 4. **Location**\
    This feature will help us to understand current page number.![](../../../../../.gitbook/assets/pdfPlayerv2Location.png)
 5. **Progress**\

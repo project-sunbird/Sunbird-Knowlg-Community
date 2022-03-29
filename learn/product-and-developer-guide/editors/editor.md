@@ -4,7 +4,7 @@ The ECML editor is similar to Google slides. Using this editor the users can add
 
 Once the content is updated in the slides, users can preview the content on how
 
-![](<../../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (4).png>)
 
 ## :stars:Tech Stack
 

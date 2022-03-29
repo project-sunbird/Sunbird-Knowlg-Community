@@ -1,6 +1,6 @@
 # PDF Player
 
-The [Common Player](broken-reference) is packaged with all the asset types. So It became bulky & little slow while launching the asset. Hence the PDF player is spilt as an independent player to improve the performance and load time while launching.
+The [Content v1 player](broken-reference) is packaged with all the asset types. So It became bulky & little slow while launching the asset. Hence the PDF player is spilt as an independent player to improve the performance and load time while launching.
 
 ### Usecase:
 

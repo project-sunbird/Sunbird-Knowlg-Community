@@ -14,11 +14,19 @@ Knowlg provides a generalized and externalized asset model as shown in the below
 
 ### **Key Capabilities of Sunbird Assets:**
 
-* Enables you to define your own domain specific assets and their properties using configurable and extensible attributes.
+* **Enables you to define your own domain specific assets and their properties using configurable and extensible attributes.**
+
+Below assets are currently defined in Sunbird. You can define new assets basis your needs.
+
+* Content - This asset allows you to create a variety of content enabling you to deliver rich learning experiences.
+* Collections - click [here](organised-collections.md) to know more about this asset type
+* Question(s) - click [here](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/) to know more about this asset type
+* Question Set - click [here](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/) to know more about this asset type
+* Media Resources - This asset type comprises of lowest level of reusable assets such as images, video, audio files etc
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-24 at 11.48.17 AM.png>)
 
-* Enables creation of categories to cater to domain specific solutions through configuration without any code changes.
+* **Enables creation of categories to cater to domain specific solutions through configuration without any code changes.**
 
 Unlike an **Asset**, which is a core entity of the system, a category is just a “label” tagged to an object and can defined a specific set of properties and behaviors - which are a subset of those supported by the asset.
 
@@ -29,20 +37,11 @@ Analogous example from the real-world - A _**Shoe, Sandal, Flip-flops**_ each on
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-24 at 12.16.00 PM.png>)
 
-* Provides rich and customizable tagging frameworks to efficiently organize your assets and help users discover relevant assets.
+* **Provides rich and customizable tagging frameworks to efficiently organize your assets and help users discover relevant assets.**
 
 ![Example - Asset tagging frameworks in the Education Domain](<../../.gitbook/assets/Screen Shot 2022-03-24 at 11.58.43 AM.png>)
 
-* Provides tools such as editors and players to create and consume these assets.
+* **Provides tools such as editors and players to create and consume these assets.**
 
 ![Editors & Players](<../../.gitbook/assets/Screen Shot 2022-03-24 at 1.12.09 PM.png>)
 
-### Types of Assets
-
-Below assets are currently defined in Sunbird. You can define new assets basis your needs.
-
-* Content - This asset allows you to create a variety of content enabling you to deliver rich learning experiences.
-* Collections - click [here](organised-collections.md) to know more about this asset type
-* Question(s) - click [here](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/) to know more about this asset type
-* Question Set - click [here](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/) to know more about this asset type
-* Media Resources - This asset type comprises of lowest level of reusable assets such as images, video, audio files etc

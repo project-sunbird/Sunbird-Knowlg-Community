@@ -33,7 +33,7 @@
         * [FAQ's](learn/product-and-developer-guide/player/v2/epub-player/faqs.md)
       * [Video Player](learn/product-and-developer-guide/player/v2/video-player/README.md)
         * [Architecture](learn/product-and-developer-guide/player/v2/video-player/architecture.md)
-        * [Feature](learn/product-and-developer-guide/player/v2/video-player/feature.md)
+        * [Features](learn/product-and-developer-guide/player/v2/video-player/features.md)
         * [Configuration](learn/product-and-developer-guide/player/v2/video-player/configuration.md)
         * [FAQ's](learn/product-and-developer-guide/player/v2/video-player/faqs.md)
   * [Editors](learn/product-and-developer-guide/editors/README.md)

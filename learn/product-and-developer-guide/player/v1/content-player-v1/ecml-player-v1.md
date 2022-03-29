@@ -122,7 +122,7 @@ What should be the the minimum font size can be render in content player v1 defi
 
 Show submit property present the show button on end page, which will show after attempting the assessment. This is a configurable property of [overlay config](./#overlay) of content player v1.
 
-![](<../../../../../.gitbook/assets/showsubmit (1).png>)
+![](../../../../../.gitbook/assets/showsubmit.png)
 
 Sample config to show submit button.
 

@@ -18,11 +18,15 @@ Knowlg provides a generalized and externalized asset model as shown in the below
 
 Below assets are currently defined in Sunbird. You can define new assets basis your needs.
 
-* Content - This asset allows you to create a variety of content enabling you to deliver rich learning experiences.
-* Collections - click [here](organised-collections.md) to know more about this asset type
-* Question(s) - click [here](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/) to know more about this asset type
-* Question Set - click [here](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/) to know more about this asset type
-* Media Resources - This asset type comprises of lowest level of reusable assets such as images, video, audio files etc
+a) Content - This asset allows you to create a variety of content enabling you to deliver rich learning experiences.
+
+b) Collections - click [here](organised-collections.md) to know more about this asset type
+
+c) Question(s) - click [here](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/) to know more about this asset type
+
+d) Question Set - click [here](https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/Wu4HIWGkb7dD4y0Kup4W/) to know more about this asset type
+
+e) Media Resources - This asset type comprises of lowest level of reusable assets such as images, video, audio files etc
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-24 at 11.48.17 AM.png>)
 

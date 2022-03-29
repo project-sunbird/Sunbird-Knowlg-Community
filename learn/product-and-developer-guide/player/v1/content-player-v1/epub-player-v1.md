@@ -8,7 +8,7 @@ description: >-
 
 **Configuration**
 
-Based on the \*\*\*\* following configuration EPUB content can be rendered.
+Based on the following configuration EPUB content can be rendered.
 
 ```
 {

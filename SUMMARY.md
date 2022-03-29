@@ -19,6 +19,7 @@
         * [HTML-h5p Player - v1](learn/product-and-developer-guide/player/v1/content-player-v1/html-h5p-player-v1.md)
         * [PDF Player - v1](learn/product-and-developer-guide/player/v1/content-player-v1/pdf-player-v1.md)
         * [Epub Player - v1](learn/product-and-developer-guide/player/v1/content-player-v1/epub-player-v1.md)
+        * [Video Player v1](learn/product-and-developer-guide/player/v1/content-player-v1/video-player-v1.md)
     * [V2](learn/product-and-developer-guide/player/v2/README.md)
       * [PDF Player](learn/product-and-developer-guide/player/v2/pdf-player/README.md)
         * [Architecture](learn/product-and-developer-guide/player/v2/pdf-player/architecture.md)

@@ -6,7 +6,7 @@ description: HTML player is used to render the HTML type contents
 
 **Configuration**
 
-Based on the \*\*\*\* following configuration HTML content can be rendered.
+Based on the following configuration HTML content can be rendered.
 
 ```
 {

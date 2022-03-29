@@ -25,7 +25,7 @@ Content player is used to render the different types of contents. This contents 
 
 **What is mime-type**
 
-MIME Types \*\*\*\* defines the what type of the content it is. According to the mimeType you can load the specific content launcher and play the different types of contents
+MIME Types defines the what type of the content it is. According to the mimeType you can load the specific content launcher and play the different types of contents
 
 #### Sample config to load the MIME types
 
@@ -136,7 +136,7 @@ User can customise the loading screen of the content player using below configur
 
 ### **Navigate**
 
-This navigate feature will provide the user to view previous and next page from given page\*\*.\*\* [PDF player](pdf-player-v1.md) only provides to jump to any specific location capability.
+This navigate feature will provide the user to view previous and next page from given page [PDF player](pdf-player-v1.md) only provides to jump to any specific location capability.
 
 ![](../../../../../.gitbook/assets/epub-navigation.png)
 
@@ -233,3 +233,11 @@ ans: Please refer [mime Type](./#mime-type) section
 5\. Can we switch the user while playing the contents
 
 ans: Yes, we can switch the user while playing the contents. Please refer refer [user switcher config](./#sample-overlay-config) section for more information.
+
+6\. How to render the HTML file in content player v1?
+
+ans: Please refer [HTML/h5p player](html-h5p-player-v1.md) v1 page
+
+7\. Video can be stream in content player v1?
+
+ans: Yes, Video can be stream using the [streamingUrl](broken-reference). for more please refer [video player v1](broken-reference) page

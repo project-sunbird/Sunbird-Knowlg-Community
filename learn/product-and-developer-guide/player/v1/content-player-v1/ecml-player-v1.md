@@ -14,7 +14,7 @@ ECML is a short form of Ekstep content markup language. The content player v1 is
 
 Please refer [user task workflow](http://docs.sunbird.org/2.2.0/usertaskflow/how\_do\_i\_create\_content/) section for more information
 
-Based on the \*\*\*\* following configuration ECML content can be rendered.
+Based on the following configuration ECML content can be rendered.
 
 ![](../../../../../.gitbook/assets/create\_content.svg)
 

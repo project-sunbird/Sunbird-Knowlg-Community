@@ -22,7 +22,7 @@ Lifecycle of learning assets is a 5 stage cyclic process, Learning Assets follow
 
 Draft --> Review --> Publish --> Package --> Update
 
-![Asset lifecycle](<../../../.gitbook/assets/Asset LifeCycle.png>)
+![Asset lifecycle](<../../../.gitbook/assets/Asset LifeCycle (1).png>)
 
 The initial stage of asset creation is _Draft_. In this stage asset creation happens. After the creation asset move to the _Review_ stage\_.\_ In the _review_ stage, \_\_ the reviewer approves, reject or request changes in the assets. Reject and request change assets move back to the Draft stage. While approved assets move to Publish stage.
 

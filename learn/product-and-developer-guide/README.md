@@ -19,23 +19,23 @@ on this page, we are detailing the list of [capabilities](../capabilities/) mapp
 
 ### Organized Collections
 
-| Component                                                     | Description                                                                                                                                                                       |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Content-service](content-service/)                           | Allow users to define Rich & diverse asset schema. This service also provides APIs to organize the assets as a collection.                                                        |
-| [Creation - Collection editor](editors/collection-editor-v2/) | As the name indicates, it is a tool used to create the collection or organized assets by the creators.                                                                            |
-| <mark style="color:red;">Consumption - no player</mark>       | There is no player to consume or represent a collection at present. But the assets of the collection can be played using the [content-players V1](player/v1/common-player/) or V2 |
+| Component                                                     | Description                                                                                                                                                               |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Content-service](content-service/)                           | Allow users to define Rich & diverse asset schema. This service also provides APIs to organize the assets as a collection.                                                |
+| [Creation - Collection editor](editors/collection-editor-v2/) | As the name indicates, it is a tool used to create the collection or organized assets by the creators.                                                                    |
+| <mark style="color:red;">Consumption - no player</mark>       | There is no player to consume or represent a collection at present. But the assets of the collection can be played using the [content-players V1](broken-reference) or V2 |
 
 ### Asset Lifecycle Management
 
 ###
 
-| Component                                                   | Description                                                                                                                                                                                                        |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Content service](content-service/)                         | <p>Content service API's helps to curate the assets created by creators(using asset creation tools - <a href="editors/">editors</a>).<br><br>The lifecycle to curate the content<br>Draft -> Review -> Publish</p> |
-| [Creation - Interactive editor](editors/editor.md)          | This tool helps user/creators to create the assets(ECML format).                                                                                                                                                   |
-| [Creation - File upload editor](editors/generic-editor.md)  | This tool helps users/creators to create the assets by uploding the files format of Videos, PDFs, HTML, H5P & EPUBs.                                                                                               |
-| [Consumption - Content player V1](player/v1/common-player/) | This tool helps end-users to view/consume the contents created by the creators. This allow to play all the types of contents supported by sunbird platform.                                                        |
-| Consumption - Content player's V2                           | This is enhaced or un-bundled version of content-player-V1. Unbundled to be smaller & specific format to play. So adopters can choose specific player as per their need.                                           |
+| Component                                                  | Description                                                                                                                                                                                                        |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Content service](content-service/)                        | <p>Content service API's helps to curate the assets created by creators(using asset creation tools - <a href="editors/">editors</a>).<br><br>The lifecycle to curate the content<br>Draft -> Review -> Publish</p> |
+| [Creation - Interactive editor](editors/editor.md)         | This tool helps user/creators to create the assets(ECML format).                                                                                                                                                   |
+| [Creation - File upload editor](editors/generic-editor.md) | This tool helps users/creators to create the assets by uploding the files format of Videos, PDFs, HTML, H5P & EPUBs.                                                                                               |
+| [Consumption - Content player V1](broken-reference)        | This tool helps end-users to view/consume the contents created by the creators. This allow to play all the types of contents supported by sunbird platform.                                                        |
+| Consumption - Content player's V2                          | This is enhaced or un-bundled version of content-player-V1. Unbundled to be smaller & specific format to play. So adopters can choose specific player as per their need.                                           |
 
 ### Powerful Discovery
 

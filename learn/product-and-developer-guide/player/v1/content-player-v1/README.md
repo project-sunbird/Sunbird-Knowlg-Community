@@ -6,7 +6,18 @@ description: >-
 
 # Content Player v1
 
-## Architecture
+This is the classic version of the asset player. Using this player, users can play the following asset types.
+
+* ECML
+* PDF
+* EPUB
+* HTML and H5P
+* Video (MP4, WebM)
+* Youtube
+
+![](<../../../../../.gitbook/assets/Screenshot from 2021-11-24 15-00-25.png>)
+
+### Architecture
 
 Content player is used to render the different types of contents. This contents are categories in terms of mime-type
 
@@ -205,7 +216,7 @@ Please refer to the [config section of README.md ](https://github.com/project-su
 
 Please refer to [FAQs of sunbird](http://docs.sunbird.org/latest/faqs/) documents
 
-ans: Please refer this link to [setup the content player](../common-player/how-to-setup.md) locally.
+ans: Please refer this link to [setup the content player](../../../../../use/installation-guide/players/v1/how-to-setup.md) locally.
 
 2\. How to configure content player v1
 

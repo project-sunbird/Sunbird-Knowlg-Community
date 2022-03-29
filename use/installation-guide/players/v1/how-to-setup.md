@@ -29,7 +29,7 @@ The common player(content-player) is customizable and configurable before launch
 
 ### Internal Dependencies
 
-#### [API Service](../../../content-service/)
+#### [API Service](../../../../learn/product-and-developer-guide/content-service/)
 
 The APIs service is used to read the content details using READ/GET API calls.
 

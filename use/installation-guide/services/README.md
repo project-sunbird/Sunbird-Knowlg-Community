@@ -8,4 +8,6 @@ Local Installation
 
 Server Installation
 
+Server & deployment configuration
+
 Deployment
